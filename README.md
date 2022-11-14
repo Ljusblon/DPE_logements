@@ -25,7 +25,6 @@ La lecture du DPE est facilitée par deux étiquettes à sept classes. L’éche
  
 ![image](/main/image.jpg "Titre : Échelle de performance énergétique et environnementale.").
 
-
 *Titre : Échelle de performance énergétique et environnementale.*
 *Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/
 
@@ -61,9 +60,9 @@ o	Le type d'énergie d'ECS.
 Le DPE doit être établi par un professionnel répondant des conditions de compétences, d’assurance, d’organisation et de moyens mais également d’indépendance et d’impartialité conformément aux dispositions de l’article L.271-6 du CCH.  
 
 L’article D134-4-2 du CCH a modifié la durée de validité des diagnostics de performance énergétique :
-•	Les diagnostics réalisés à compter du 1er juillet 2021 seront valable dix ans ;
-•	Ceux réalisés entre le 1er janvier 2013 et le 31 décembre 2017 sont valides jusqu'au 31 décembre 2022 ;
-•	Et ceux réalisés entre le 1er janvier 2018 et le 30 juin 2021 jusqu'au 31 décembre 2024.
+- Les diagnostics réalisés à compter du 1er juillet 2021 seront valable dix ans ;
+- Ceux réalisés entre le 1er janvier 2013 et le 31 décembre 2017 sont valides jusqu'au 31 décembre 2022 ;
+- Et ceux réalisés entre le 1er janvier 2018 et le 30 juin 2021 jusqu'au 31 décembre 2024.
 
 À compter du 1er juillet 2021, le DPE devient opposable : dès lors que l’absence d’information ou l’information erronée lui cause un préjudice, l’acquéreur ou le locataire peut se prévaloir des informations relatives à la performance énergétique à l’encontre du vendeur ou du bailleur pour obtenir réparation. 
 Aussi, si un bien est vendu ou loué sous l’étiquette E alors qu’il appartient à la catégorie G, l’acquéreur pourra contraindre le vendeur à réaliser des travaux.  
@@ -73,10 +72,10 @@ L’arrêté du 31 mars 2021 relatif au diagnostic de performance énergétique 
 
 La loi Énergie-Climat du 8 décembre 2019 vise à lutter contre la précarité énergétique et à limiter les émissions de CO2 de la France. L’objectif étant d’atteindre la neutralité carbone. Pour cela, la loi impose aux bailleurs de rénover certains logements énergivores, souvent nommés « passoires thermiques ». 
 Les propriétaires bailleurs ne peuvent pas être soumis à l’obligation de rénover leur logement du jour au lendemain. Pour éliminer les passoires thermiques, un calendrier a été mis en place :
-•	En 2021, il n’est plus possible d’augmenter le loyer entre deux locataires si aucun chantier de rénovation thermique n’a été réalisé dans le logement.
-•	En 2022, les propriétaires-bailleurs sont tenus de faire réaliser un audit énergétique de leur bien. Cet audit donnera lieu à des conseils en matière de rénovation thermique.
-•	À partir de 2025, les propriétaires de logements énergivores consommant plus de 330 kW/m²/an seront tenus d'effectuer des travaux pour améliorer la performance énergétique globale du bâti. Car dès 2025, ces passoires thermiques seront non seulement régulées mais aussi interdites à la location, avec une obligation de « remise à niveau thermique », accompagnée d'un bilan énergétique.
-•	Dès 2028, cette mesure sera étendue aux logements classés F
+- En 2021, il n’est plus possible d’augmenter le loyer entre deux locataires si aucun chantier de rénovation thermique n’a été réalisé dans le logement.
+- En 2022, les propriétaires-bailleurs sont tenus de faire réaliser un audit énergétique de leur bien. Cet audit donnera lieu à des conseils en matière de rénovation thermique.
+- À partir de 2025, les propriétaires de logements énergivores consommant plus de 330 kW/m²/an seront tenus d'effectuer des travaux pour améliorer la performance énergétique globale du bâti. Car dès 2025, ces passoires thermiques seront non seulement régulées mais aussi interdites à la location, avec une obligation de « remise à niveau thermique », accompagnée d'un bilan énergétique.
+- Dès 2028, cette mesure sera étendue aux logements classés F
 
 
 ## 3) Description rapide de la base de données
@@ -91,7 +90,16 @@ La moyenne de la consommation d’énergie pour les 240 000 logements recensés 
 La moyenne de l’estimation GES en Kg eqCO2/m2.an pour chaque logement est de 23,7 Kg eqCO2/m2.an, tandis que la médiane est de 13 Kg eqCO2/m2.an. Cette différence s’explique notamment par des valeurs d’émissions de GES extrêmes et/ou incohérentes, comprises entre 3261 et 375.
 
 Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_energie et un GROUP BY par classe énergétique permet d’obtenir la répartition suivante : 
- 
+|Type de DPE|Occurrences|
+|--------|--------|
+| Vente | 165 166 |
+| Location | 51 770 |
+| Neuf | 18 055 |
+| Copropriété | 5001 |
+| Bâtiment public | 7 |
+| Centre commercial | 1 |
+| Total | 240 000 |
+
 *Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».*
 
 De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimation_ges et un GROUP BY par classe environnementales permet d’obtenir la répartition suivante : 
