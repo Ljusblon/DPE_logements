@@ -90,15 +90,6 @@ La moyenne de la consommation d’énergie pour les 240 000 logements recensés 
 La moyenne de l’estimation GES en Kg eqCO2/m2.an pour chaque logement est de 23,7 Kg eqCO2/m2.an, tandis que la médiane est de 13 Kg eqCO2/m2.an. Cette différence s’explique notamment par des valeurs d’émissions de GES extrêmes et/ou incohérentes, comprises entre 3261 et 375.
 
 Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_energie et un GROUP BY par classe énergétique permet d’obtenir la répartition suivante : 
-|Type de DPE|Occurrences|
-|--------|--------|
-| Vente | 165 166 |
-| Location | 51 770 |
-| Neuf | 18 055 |
-| Copropriété | 5001 |
-| Bâtiment public | 7 |
-| Centre commercial | 1 |
-| Total | 240 000 |
 
 *Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».*
 
@@ -109,34 +100,28 @@ De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimat
 En outre, la médiane des années de construction se situe autour de 1970, indépendamment des données incohérentes. La plage de construction des logements de cette base de données est donc comprise entre le début du XVIIIe siècle et 2017. Nous fixons la date de construction des premiers logements au début du XVIIIe siècle, ne pouvant attester de la véracité des dates antérieures avancées. 
 
 Une courte requête avec un SELECT COUNT sur la colonne tr001_modele_dpe_type_libelle et un GROUP BY par type de DPE permet d’obtenir la répartition suivante : 
-Type de DPE	Occurrences
-Vente	165 166
-Location	51 770
-Neuf	18 055
-Copropriété	5001
-Bâtiment public	7
-Centre commercial	1
-Total	240 000
+|Type de DPE|Occurrences|
+|--------|--------|
+| Vente | 165 166 |
+| Location | 51 770 |
+| Neuf | 18 055 |
+| Copropriété | 5001 |
+| Bâtiment public | 7 |
+| Centre commercial | 1 |
+| Total | 240 000 |
 
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
  
 Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_description et un GROUP BY par type de bâtiment permet d’obtenir la répartition suivante : 
-Type de bâtiment	Occurrences
-Logement	91 341
-Maison Individuelle	144 829
-Bâtiment collectif à usage principal d’habitation	3 830
-Total	240 000
+|Type de bâtiment|Occurrences|
+|--------|--------|
+| Logement | 91 341 |
+| Maison Individuelle | 144 829 |
+| Bâtiment collectif à usage principal d’habitation | 3 830 |
+| Total | 240 000 |
 
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
  
- 
-
-
-
-
-
-
-
 
 
 # II- Usages et usagers de la base de données
