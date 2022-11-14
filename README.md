@@ -3,7 +3,7 @@
 
 # I- Description de la base de données
 
-<p style='text-align: justify;'> 
+<div style="text-align: justify">
   Aujourd’hui, les modes de production et de consommation de l’énergie sont en train de faire leur révolution, plus ou moins contrainte, afin de préserver les ressources et d’anticiper la disparition programmée des énergies fossiles. 
 Parmi les principaux secteurs concernés se trouve le secteur du bâtiment, en tant que premier consommateur d’énergie en France avec 45 % de la consommation, soit près de 70 Mtep et deuxième émetteur de CO2, avec 23 % des émissions nationale. Un des principaux leviers pour faire face à ces contraintes et aux différents engagements des gouvernements successifs passe par la rénovation énergétique et thermique du parc immobilier, afin de réduire les consommations liées à son exploitation. La rénovation énergétique désigne l’ensemble des travaux réalisés sur un bâtiment en vue de diminuer la consommation énergétique du bâtiment et/ou de ses occupants. C’est à l’aune de ces considérations que notre attention se porte sur la base de données « DPE Logements » de l’ADEME, dont les données sont antérieures à juillet 2021.
 </p>
@@ -43,7 +43,7 @@ Ce calcul permet d'établir une consommation énergétique en kilowattheure par 
 
 La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en trois catégories :
 -	Les informations clef du DPE : données concernant les étiquettes énergie et émissions de gaz à effet de serre du logement. Ces données correspondent aux indicateurs suivants :
-  *	La consommation énergie en kWhEP/m².an ;
+  **	La consommation énergie en kWhEP/m².an ;
   *	Le classement consommation d'énergie ;
   *	L’estimation d'émission de GES en Kg eqCO2/m².an ;
   *	Le classement GES.
