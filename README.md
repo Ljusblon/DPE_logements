@@ -23,11 +23,10 @@ Le DPE est un diagnostic réalisé en France sur les biens immobiliers. Il doit 
 
 La lecture du DPE est facilitée par deux étiquettes à sept classes. L’échelle est cotée de A, pour les logements les plus sobres, à G, pour les plus énergivores. La moyenne du parc immobilier français se situe autour de 240 kWhEP/m2.an, soit la classe E.
  
-![image](./1_Echelle_performance.png "Titre : Échelle de performance énergétique et environnementale.").
-
+![image](./1_Echelle_performance.png "Titre : Échelle de performance énergétique et environnementale.")
 
 *Titre : Échelle de performance énergétique et environnementale.*
-*Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/
+*Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/*
 
 Cette figure représente les échelles de performance énergétique et environnementale dans le cadre du Diagnostic de Performance Énergétique. Ces dernières sont respectivement exprimées en kWhEP/m2.an et en kg eqCO2/m2.an.
 À propos du critère énergétique, kWhEP/m2.an est l’unité la plus répandue et la plus représentative de la performance d’un bâtiment, indépendamment de l’énergie utilisée. Pour le critère environnemental, les émissions de CO2, principal responsable des émissions de GES, restent également le critère le plus connu et utilisé. Seulement, il existe bien d’autres critères que l’on retrouve notamment dans le cadre d’une Analyse de Cycle de Vie, d’autant que résonner sur un seul d’entre eux en cherchant à l’optimiser peut-être sujet à des transferts de pollutions ou des effets rebonds. 
@@ -82,8 +81,7 @@ Les propriétaires bailleurs ne peuvent pas être soumis à l’obligation de r�
 ## 3) Description rapide de la base de données
 
 Les champs de la base de données retenues sont les suivants : 
- 
- 
+![image](./2_dico_champs.png "Titre : Les champs de la base de données DPE Logements.")
 
 Quelques requêtes SQL permettent d’extraire les informations suivantes : 
 La moyenne de la consommation d’énergie pour les 240 000 logements recensés est de 187,1 kWhEP/M2.an, tandis que la médiane est de 190 kWhEP/M2.an.
@@ -92,6 +90,7 @@ La moyenne de l’estimation GES en Kg eqCO2/m2.an pour chaque logement est de 2
 
 Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_energie et un GROUP BY par classe énergétique permet d’obtenir la répartition suivante : 
 
+![image](./3_ccc_classe_energetique.png "Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».")
 *Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».*
 
 De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimation_ges et un GROUP BY par classe environnementales permet d’obtenir la répartition suivante : 
