@@ -43,16 +43,16 @@ Ce calcul permet d'établir une consommation énergétique en kilowattheure par 
 
 La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en trois catégories :
 -	Les informations clef du DPE : données concernant les étiquettes énergie et émissions de gaz à effet de serre du logement. Ces données correspondent aux indicateurs suivants :
-  **	La consommation énergie en kWhEP/m².an ;
-  *	Le classement consommation d'énergie ;
-  *	L’estimation d'émission de GES en Kg eqCO2/m².an ;
-  *	Le classement GES.
+  -	La consommation énergie en kWhEP/m².an ;
+  -	Le classement consommation d'énergie ;
+  -	L’estimation d'émission de GES en Kg eqCO2/m².an ;
+  -	Le classement GES.
 -	Les éléments d'identification et de géolocalisation du logement ou du bâtiment : adresse postale complète, coordonnées géographiques, type de bâtiment.
 -	Les éléments techniques qui entrent dans le calcul DPE, soit l'ensemble des caractéristiques physiques du logement ou du bâtiment (surfaces, matériaux), mais aussi :
-  *	Le type d'installation de chauffage ;
-  *	Le type d'énergie de chauffage ;
-  *	Le type d'installation pour l'eau chaude sanitaire (ECS) ;
-  *	Le type d'énergie d'ECS.
+  -	Le type d'installation de chauffage ;
+  -	Le type d'énergie de chauffage ;
+  -	Le type d'installation pour l'eau chaude sanitaire (ECS) ;
+  -	Le type d'énergie d'ECS.
 
 
 ## 3) Cadre réglementaire qui enserre le DPE
