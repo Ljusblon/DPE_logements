@@ -94,7 +94,8 @@ Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_ener
 *Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».*
 
 De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimation_ges et un GROUP BY par classe environnementales permet d’obtenir la répartition suivante : 
- 
+
+![image](./4_ccc_classe_environ.png "Titre : Nombre d’occurrences de chaque classe environnementale pour les 240 000 entrées de la base de données « DPE Logements ».")
 *Titre : Nombre d’occurrences de chaque classe environnementale pour les 240 000 entrées de la base de données « DPE Logements ».*
 
 En outre, la médiane des années de construction se situe autour de 1970, indépendamment des données incohérentes. La plage de construction des logements de cette base de données est donc comprise entre le début du XVIIIe siècle et 2017. Nous fixons la date de construction des premiers logements au début du XVIIIe siècle, ne pouvant attester de la véracité des dates antérieures avancées. 
@@ -111,6 +112,7 @@ Une courte requête avec un SELECT COUNT sur la colonne tr001_modele_dpe_type_li
 | Total | 240 000 |
 
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
+![image](./5_dico_tr001.png "Titre : ")
  
 Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_description et un GROUP BY par type de bâtiment permet d’obtenir la répartition suivante : 
 |Type de bâtiment|Occurrences|
@@ -121,27 +123,26 @@ Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_desc
 | Total | 240 000 |
 
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
- 
-
+![image](./6_dico_tr002.png "Titre : ")
 
 # II- Usages et usagers de la base de données
 
 ## 1) Les publics cibles de cette base de données
 
 Les données de cette base de données sont accessibles sous différents formats. Chaque format est destiné à un usage différent. 
-•	La base « DPE Logements » est accessible sous la forme d’un outil statistique, destiné au grand public comme aux acteurs du bâtiment qui souhaitent obtenir des ordres de grandeur sur la performance des bâtiments en France, tout en tenant compte des limites de cette base de données sur lesquelles nous reviendront. 
-•	Elle est également accessible sous la forme d’un tableau interactif, principalement destiné aux organismes publics et entreprises qui travaillent sur un territoire donné et veulent récupérer l’ensemble des informations existantes sur les biens ayant fait l’objet d’un DPE sur le territoire en question. Les données peuvent notamment être extraites sous un format csv. 
-•	Enfin, cette base de données est directement accessible en SQL pour les utilisateurs spécialisés dans le traitement des bases de données. Nous avons notamment exporté la base de données en csv, avant de l’importer dans Talend pour étudier la qualité des données et permettre leur intégration directement une base de données en SQL. 
+- La base « DPE Logements » est accessible sous la forme d’un outil statistique, destiné au grand public comme aux acteurs du bâtiment qui souhaitent obtenir des ordres de grandeur sur la performance des bâtiments en France, tout en tenant compte des limites de cette base de données sur lesquelles nous reviendront. 
+- Elle est également accessible sous la forme d’un tableau interactif, principalement destiné aux organismes publics et entreprises qui travaillent sur un territoire donné et veulent récupérer l’ensemble des informations existantes sur les biens ayant fait l’objet d’un DPE sur le territoire en question. Les données peuvent notamment être extraites sous un format csv. 
+- Enfin, cette base de données est directement accessible en SQL pour les utilisateurs spécialisés dans le traitement des bases de données. Nous avons notamment exporté la base de données en csv, avant de l’importer dans Talend pour étudier la qualité des données et permettre leur intégration directement une base de données en SQL. 
 
- 
-
+![image](./7_screen_phpMyAdmin.png "Titre : ")
+![image](./8_screen_SQL.png "Titre : ")
  
 Nul besoin d’écrire tout ce code avec Xampp qui facilite grandement la création et l’import de base de données. 
 
 ## 2) Diagnostics de performance énergétique pour les logements - Classe énergétique
 
- 
-*Titre : Diagnostics de performance énergétique pour les logements - Classe énergétique*
+![image](./9_diag_classe_energetique.png "Titre : Diagnostics de performance énergétique pour les logements - Classe énergétique.")
+*Titre : Diagnostics de performance énergétique pour les logements - Classe énergétique.*
 *Source : https://data.ademe.fr/datasets/dpe-france*
 
 Cette carte présente les DPE des logements en fonction de leur classe énergétique.
@@ -153,19 +154,10 @@ https://ezgif.com/maker
 
 
 
-
-
-
-
-
-
-
-
-
 ## 3) Diagnostics de performance énergétique pour les logements - Classe GES  
 
- 
-*Titre : Diagnostics de performance énergétique pour les logements - Classe GES*
+![image](./11_diag_classe_GES.png "Titre : Diagnostics de performance énergétique pour les logements - Classe GES.")
+*Titre : Diagnostics de performance énergétique pour les logements - Classe GES.*
 *Source : https://data.ademe.fr/datasets/dpe-france*
 
 Cette carte présente les DPE des logements en fonction de leur classe énergétique.
@@ -173,8 +165,8 @@ Les diagnostics de performance énergétique (DPE) sont transmis à l’ADEME à
 
 ## 4) Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES
 
- 
-*Titre : Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES*
+![image](./12_diag_relation_classes.png "Titre : Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES.")
+*Titre : Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES.*
 *Source : https://data.ademe.fr/datasets/dpe-france*
 
 Cette représentation met en relation les "classes de consommation d'énergie" et les "classes GES" pour les diagnostics de performance énergétique (DPE) des logements.
