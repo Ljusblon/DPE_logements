@@ -23,7 +23,9 @@ Le DPE est un diagnostic réalisé en France sur les biens immobiliers. Il doit 
 
 La lecture du DPE est facilitée par deux étiquettes à sept classes. L’échelle est cotée de A, pour les logements les plus sobres, à G, pour les plus énergivores. La moyenne du parc immobilier français se situe autour de 240 kWhEP/m2.an, soit la classe E.
  
-![image](main/1_Echelle_performance.png)
+![image](/main/image.jpg "Titre : Échelle de performance énergétique et environnementale.").
+
+
 *Titre : Échelle de performance énergétique et environnementale.*
 *Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/
 
