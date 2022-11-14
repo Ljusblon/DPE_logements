@@ -29,3 +29,27 @@ La lecture du DPE est facilitée par deux étiquettes à sept classes. L’éche
 *Titre : Échelle de performance énergétique et environnementale.*
 *Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/
 
+Cette figure représente les échelles de performance énergétique et environnementale dans le cadre du Diagnostic de Performance Énergétique. Ces dernières sont respectivement exprimées en kWhEP/m2.an et en kg eqCO2/m2.an.
+À propos du critère énergétique, kWhEP/m2.an est l’unité la plus répandue et la plus représentative de la performance d’un bâtiment, indépendamment de l’énergie utilisée. Pour le critère environnemental, les émissions de CO2, principal responsable des émissions de GES, restent également le critère le plus connu et utilisé. Seulement, il existe bien d’autres critères que l’on retrouve notamment dans le cadre d’une Analyse de Cycle de Vie, d’autant que résonner sur un seul d’entre eux en cherchant à l’optimiser peut-être sujet à des transferts de pollutions ou des effets rebonds. 
+
+Les étiquettes énergie et climat permettent notamment à chaque ménage français qui souhaite acheter ou louer un bien immobilier de mieux mesurer l’impact de ses choix d’énergie que ce soit le bois, le fioul, le gaz naturel ou électricité, et d’évaluer facilement la performance du logement.
+Elle permet aussi aux pouvoirs publics, tant les administrations, que collectivités territoriales, d'identifier les zones où se trouvent les logements énergivores et de mettre en œuvre des politiques publiques de rénovation ciblées.
+
+### c) Calculs et indicateurs du DPE
+
+Le calcul du DPE s'effectue à partir d'une série de critères correspondant aux caractéristiques physiques du logement ou du bâtiment tels que la surface au sol, la surface vitrée, la nature des matériaux de construction ou le type d'isolation, etc, et au type d'énergie utilisé pour le chauffage et l'eau chaude sanitaire.
+Ce calcul permet d'établir une consommation énergétique en kilowattheure par mètre carré et par an pour l’étiquette énergie, qui permet de déterminer le nombre de kilos d'équivalent CO2 émis par mètre carré et par an par le logement concerné, pour l’étiquette climat.
+
+La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en trois catégories :
+-	Les informations clef du DPE : données concernant les étiquettes énergie et émissions de gaz à effet de serre du logement. Ces données correspondent aux indicateurs suivants :
+o	La consommation énergie en kWhEP/m².an ;
+o	Le classement consommation d'énergie ;
+o	L’estimation d'émission de GES en Kg eqCO2/m².an ;
+o	Le classement GES.
+-	Les éléments d'identification et de géolocalisation du logement ou du bâtiment : adresse postale complète, coordonnées géographiques, type de bâtiment.
+-	Les éléments techniques qui entrent dans le calcul DPE, soit l'ensemble des caractéristiques physiques du logement ou du bâtiment (surfaces, matériaux), mais aussi :
+o	Le type d'installation de chauffage ;
+o	Le type d'énergie de chauffage ;
+o	Le type d'installation pour l'eau chaude sanitaire (ECS) ;
+o	Le type d'énergie d'ECS.
+
