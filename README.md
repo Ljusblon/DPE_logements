@@ -194,21 +194,22 @@ Le projet Mon Coach Renov correspond à une démarche d’accompagnement à la r
 
 Le projet Carto Reno est une plateforme permettant de cartographier et de caractériser le parc des logements sociaux en France à partir de l’open data afin de proposer des scénarios de rénovation énergétique pertinents en fonction de la typologie de ces bâtiments.
 
-###e) Le projet Rénover pour tous
+### e) Le projet Rénover pour tous
 
-	Le projet Rénover pour tous est un dispositif proposant un nouveau mécanisme de financement « d’acquisition-rénovation globale » en séparant la valeur du bâti de celle du foncier. Avec l’acquisition du foncier par un organisme foncier solidaire, ce dispositif permet de solvabiliser les ménages-propriétaires aux revenus modestes dans l’incapacité de financer seuls une rénovation globale de leur logement, et de développer une offre en accession sociale de manière pérenne.
+Le projet Rénover pour tous est un dispositif proposant un nouveau mécanisme de financement « d’acquisition-rénovation globale » en séparant la valeur du bâti de celle du foncier. Avec l’acquisition du foncier par un organisme foncier solidaire, ce dispositif permet de solvabiliser les ménages-propriétaires aux revenus modestes dans l’incapacité de financer seuls une rénovation globale de leur logement, et de développer une offre en accession sociale de manière pérenne.
 
 ### f) D'autres usages potentiels
 
 La base DPE constitue outil clé des politiques de rénovations énergétiques tant au niveau local que national. La mise à disposition de cette base en open data ouvre la porte à de nombreux usages. Il est dès lors possible de visualiser sur le portail open data de l'ADEME la répartition géographique des classes DPE énergies et gaz à effet de serre. Ces premiers traitements sur la base de données laissent entrevoir les usages attendus d'une exploitation plus précise des données :
-•	« Le croisement de la base DPE avec des données de travaux afin d'estimer l'impact de ces derniers sur la consommation d'énergie » ;
-•	« Le croisement des données avec les consommations d'énergie des résidences tertiaires » ;
-•	« Le croisement des données DPE avec les données d'ancienneté du parc de logements, afin de comprendre la corrélation entre ancienneté des logements et consommation énergétique et d'établir des zonages de bâtis à rénover. »
+- « Le croisement de la base DPE avec des données de travaux afin d'estimer l'impact de ces derniers sur la consommation d'énergie » ;
+- « Le croisement des données avec les consommations d'énergie des résidences tertiaires » ;
+- « Le croisement des données DPE avec les données d'ancienneté du parc de logements, afin de comprendre la corrélation entre ancienneté des logements et consommation énergétique et d'établir des zonages de bâtis à rénover. »
 
 Les différents travaux de valorisation des données se feraient au bénéfice de nombreux acteurs :
-•	Pour les acteurs publics qui souhaitent piloter leurs politiques publiques par la donnée : l'exploitation des données de la base DPE Logements permettrait de mieux caractériser le parc immobilier français, de favoriser le recours à certains modes de consommation, ou encore de d'identifier les zones d'habitat indigne.
-•	Pour les acteurs privés qui cherchent à développer des offres de services ou de produits relatifs à la rénovation des bâtiments : la valorisation des données permettrait de mieux cibler les besoins en fonction des territoires et des logements et affinerait l'offre proposée aux particuliers ou aux acteurs publics.
-•	Pour le milieu de la recherche ou pour les acteurs de la transition écologique qui souhaitent s'appuyer sur d'important volumes de données afin d'étudier les enjeux de la transition énergétique, en vue de proposer des axes d'améliorations qui s'appuient sur des éléments empiriques.
+- Pour les acteurs publics qui souhaitent piloter leurs politiques publiques par la donnée : l'exploitation des données de la base DPE Logements permettrait de mieux caractériser le parc immobilier français, de favoriser le recours à certains modes de consommation, ou encore de d'identifier les zones d'habitat indigne.
+- Pour les acteurs privés qui cherchent à développer des offres de services ou de produits relatifs à la rénovation des bâtiments : la valorisation des données permettrait de mieux cibler les besoins en fonction des territoires et des logements et affinerait l'offre proposée aux particuliers ou aux acteurs publics.
+- Pour le milieu de la recherche ou pour les acteurs de la transition écologique qui souhaitent s'appuyer sur d'important volumes de données afin d'étudier les enjeux de la transition énergétique, en vue de proposer des axes d'améliorations qui s'appuient sur des éléments empiriques.
+- 
 # III- Limites et perspectives de la base de données
 
 ## 1) La non-représentativité des données et leur qualité
