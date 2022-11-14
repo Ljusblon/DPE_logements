@@ -149,11 +149,11 @@ Cette carte présente les DPE des logements en fonction de leur classe énergét
 Les diagnostics de performance énergétique sont transmis à l’ADEME à des fins d'études statistiques, d'évaluation et d'amélioration méthodologique en vertu de l’article L134-4-2 du code de la construction et de l’habitation.
 À Partir de cette carte interactive, nous avons pu générer un gif permettant de voir l’évolution des DPE. Cette animation a été réalisé à partir de 18 images prises à intervalle régulier entre 6 et 7 ans pour les logements construits entre 1900 et 2021.
 
-![video](./10_GIF_DPE.mp4)
+[![video](./10_GIF_DPE.mp4)]
 GIF DPE low.mp4
 https://ezgif.com/maker
 
-[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://user-images.githubusercontent.com/111519260/201638903-571ff5b1-651e-45b4-a8ec-50609354dfa9.mp4))]([https://youtu.be/vt5fpE0bzSY](https://user-images.githubusercontent.com/111519260/201638903-571ff5b1-651e-45b4-a8ec-50609354dfa9.mp4))
+https://user-images.githubusercontent.com/111519260/201638903-571ff5b1-651e-45b4-a8ec-50609354dfa9.mp4
 
 
 
