@@ -40,7 +40,6 @@ La lecture du DPE est facilitée par deux étiquettes à sept classes. L’éche
 Titre : Échelle de performance énergétique et environnementale. <br />
 Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/
   </div>
-  </br>
   
   <div align="justify">
 Cette figure représente les échelles de performance énergétique et environnementale dans le cadre du Diagnostic de Performance Énergétique. Ces dernières sont respectivement exprimées en kWhEP/m2.an et en kg eqCO2/m2.an.
@@ -123,7 +122,7 @@ Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_ener
 </p>
 
   <div align="center">
-*Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».*
+Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».
   </div>
   
 De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimation_ges et un GROUP BY par classe environnementales permet d’obtenir la répartition suivante : 
@@ -133,7 +132,7 @@ De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimat
 </p>
 
   <div align="center">
-*Titre : Nombre d’occurrences de chaque classe environnementale pour les 240 000 entrées de la base de données « DPE Logements ».*
+Titre : Nombre d’occurrences de chaque classe environnementale pour les 240 000 entrées de la base de données « DPE Logements ».
   </div>
   
   <div align="justify">
