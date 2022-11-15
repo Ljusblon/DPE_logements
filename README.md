@@ -52,9 +52,8 @@ Elle permet aussi aux pouvoirs publics, tant les administrations, que collectivi
 Le calcul du DPE s'effectue à partir d'une série de critères correspondant aux caractéristiques physiques du logement ou du bâtiment tels que la surface au sol, la surface vitrée, la nature des matériaux de construction ou le type d'isolation, etc, et au type d'énergie utilisé pour le chauffage et l'eau chaude sanitaire.
 Ce calcul permet d'établir une consommation énergétique en kilowattheure par mètre carré et par an pour l’étiquette énergie, qui permet de déterminer le nombre de kilos d'équivalent CO2 émis par mètre carré et par an par le logement concerné, pour l’étiquette climat.
   </div>
-  <div align="justify">
+
 La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en trois catégories :
-    </div>
 -	Les informations clef du DPE : données concernant les étiquettes énergie et émissions de gaz à effet de serre du logement. Ces données correspondent aux indicateurs suivants :
   >> - La consommation énergie en kWhEP/m².an ;
   >> -	Le classement consommation d'énergie ;
@@ -73,8 +72,10 @@ La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en tr
 
 ### a) Cadre réglementaire - DPE
 
+  <div align="justify">
 Le DPE doit être établi par un professionnel répondant des conditions de compétences, d’assurance, d’organisation et de moyens mais également d’indépendance et d’impartialité conformément aux dispositions de l’article L.271-6 du CCH.  
-
+  </div>
+  
 L’article D134-4-2 du CCH a modifié la durée de validité des diagnostics de performance énergétique :
 - Les diagnostics réalisés à compter du 1er juillet 2021 seront valable dix ans ;
 - Ceux réalisés entre le 1er janvier 2013 et le 31 décembre 2017 sont valides jusqu'au 31 décembre 2022 ;
