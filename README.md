@@ -249,28 +249,38 @@ Cette représentation met en relation les "classes de consommation d'énergie" e
 
 ### a) Le hackathon RenovAction
 
-<div align="justify">
+  <div align="justify">
 Les données contenues dans la base DPE ont été utilisées lors du hackathon RenovAction, du 11 au 22 juin 2020, co-organisé par l'ADEME, le Ministère de la Transition Ecologique et plusieurs partenaires, dont Etalab.
 Ce hackathon avait pour objectif de faire émerger des solutions pour la rénovation énergétique. L'évènement a permis de faire émerger de premières propositions d'outils et de plateformes s'appuyant sur les données de la base DPE Logements. 
+  </div>
 
 ### b) Le projet Tribu Reno
 
-Le projet Tribu Reno repose sur une plateforme qui permet de regrouper et de manipuler un ensemble de jeux de données issues de plusieurs sources. Il s’agit bien d’un service proposant un parcours de rénovation simplifié et rendant possible la massification via le processus d’achat groupé impliquant la collectivité territoriale dans l’acte de rénovation et le choix du prestataire tout en s’appuyant sur les outils existants
+  <div align="justify">
+Le projet Tribu Reno repose sur une plateforme qui permet de regrouper et de manipuler un ensemble de jeux de données issues de plusieurs sources. Il s’agit bien d’un service proposant un parcours de rénovation simplifié et rendant possible la massification via le processus d’achat groupé impliquant la collectivité territoriale dans l’acte de rénovation et le choix du prestataire tout en s’appuyant sur les outils existants.
+  </div>
 
 ### c) Le projet IMOPE
 
+   <div align="justify">
 Le projet IMOPE repose sur une plateforme cartographique permettant de regrouper et de manipuler les données afin d'aider les acteurs territoriaux à caractériser le potentiel de rénovation de chacun des bâtiments de leur territoire.
-
+   </div>
+  
 ### d) Le projet Mon Coach Renov
 
+   <div align="justify">
 Le projet Mon Coach Renov correspond à une démarche d’accompagnement à la rénovation énergétique des logements, qui croise les données de consommations avec les caractéristiques du logement pour identifier les surconsommations et proposer des travaux en conséquence. Il aussi facilite l’accès à l’information fiable sur la rénovation telle que les coûts des travaux ou les aides disponibles.
+   </div>
 
 ### d) Le projet Carto Reno
 
+  <div align="justify">
 Le projet Carto Reno est une plateforme permettant de cartographier et de caractériser le parc des logements sociaux en France à partir de l’open data afin de proposer des scénarios de rénovation énergétique pertinents en fonction de la typologie de ces bâtiments.
-
+   </div>
+     
 ### e) Le projet Rénover pour tous
-
+    
+  <div align="justify">
 Le projet Rénover pour tous est un dispositif proposant un nouveau mécanisme de financement « d’acquisition-rénovation globale » en séparant la valeur du bâti de celle du foncier. Avec l’acquisition du foncier par un organisme foncier solidaire, ce dispositif permet de solvabiliser les ménages-propriétaires aux revenus modestes dans l’incapacité de financer seuls une rénovation globale de leur logement, et de développer une offre en accession sociale de manière pérenne.
   </div>
 
@@ -279,6 +289,7 @@ Le projet Rénover pour tous est un dispositif proposant un nouveau mécanisme d
   <div align="justify">
 La base DPE constitue outil clé des politiques de rénovations énergétiques tant au niveau local que national. La mise à disposition de cette base en open data ouvre la porte à de nombreux usages. Il est dès lors possible de visualiser sur le portail open data de l'ADEME la répartition géographique des classes DPE énergies et gaz à effet de serre. Ces premiers traitements sur la base de données laissent entrevoir les usages attendus d'une exploitation plus précise des données :
   </div>
+     
 - « Le croisement de la base DPE avec des données de travaux afin d'estimer l'impact de ces derniers sur la consommation d'énergie » ;
 - « Le croisement des données avec les consommations d'énergie des résidences tertiaires » ;
 - « Le croisement des données DPE avec les données d'ancienneté du parc de logements, afin de comprendre la corrélation entre ancienneté des logements et consommation énergétique et d'établir des zonages de bâtis à rénover. »
@@ -294,13 +305,15 @@ Les différents travaux de valorisation des données se feraient au bénéfice d
 
   <div align="justify">
 L’ADEME souligne d’emblée que les données fournies, sont les données brutes de l’observatoire DPE qui contient l’ensemble des DPE effectués par les diagnostiqueurs immobiliers. Leur interprétation doit être faite avec précaution, en ce sens où le DPE est obligatoire seulement pour une vente, une location ou à l'achèvement de toute nouvelle construction. Aussi, tous les biens ne sont pas dotés d'un DPE. À ce titre, cette base ne couvre pas tout le parc immobilier et n’en donc est pas pleinement représentative. <br />
-Pour estimer la performance énergétique et environnementale de l'ensemble du parc français et la distribution nationale des classes DPE, un travail de redressement des données devrait être fait. Il nécessite l’utilisation de la base de données DPE, mais aussi la mobilisation d’autres bases de données telles que le répertoire de logements de l'Insee « Fidéli » ou encore les distributions d'énergies principales de chauffage des résidences principales estimées par le recensement de la population.
+Pour estimer la performance énergétique et environnementale de l'ensemble du parc français et la distribution nationale des classes DPE, un travail de redressement des données devrait être fait. Il nécessite l’utilisation de la base de données DPE, mais aussi la mobilisation d’autres bases de données telles que le répertoire de logements de l'Insee « Fidéli » ou encore les distributions d'énergies principales de chauffage des résidences principales estimées par le recensement de la population. <br />
 
 Les données mises à disposition sont les données brutes saisies par les diagnostiqueurs, sur lesquelles l’ADEME n’effectue aucune reprise de données. Dans ce cadre, l’ADEME ne peut en aucun cas être tenue responsable de la qualité des données qui lui sont transmises. <br />
-Contrairement aux données envoyées sur l’ancien observatoire, néanmoins elles font l’objet de contrôles de cohérence. En cas de non-conformité, le DPE est rejeté si le contrôle est bloquant. 
+Contrairement aux données envoyées sur l’ancien observatoire, néanmoins elles font l’objet de contrôles de cohérence. En cas de non-conformité, le DPE est rejeté si le contrôle est bloquant.
+    </div>
 
 ## 2) Les limites du DPE et donc par extension de la Bdd
 
+   <div align="justify">
 Il convient de souligner la principale limite de la base DPE logements et de son exploitation. En effet, les diagnostics sont réalisés de façon à rendre comptable la performance des bâtiments sans tenir compte de leur usage, ni de leur environnement extérieur. Le résultat obtenu est donc seulement une performance standardisée du bâtiment et en aucun cas une image de la performance réelle de ce dernier. De fait, les préconisations faites à l’issue de ces diagnostics ne sont que rarement propre au bâtiment et à ses usages. Les économies qui en découlent sont donc entachées d’erreurs d’appréciation. Il faudrait donc repenser le diagnostic énergétique en prenant en compte l’environnement extérieur de chaque bâtiment, leurs usages, le fonctionnement réel des bâtiments ainsi que les incertitudes qui y sont associées. 
 
 Martin Amiel montre bien dans sa thèse, sur une optimisation du diagnostic de performance énergétique, que pour réussir à rendre performant l’ensemble des projets de rénovation, il est nécessaire de sortir du schéma classique et de travailler sur l’ensemble de la chaîne de valeur de la rénovation : du diagnostic au suivi de la performance, en passant par la préconisation des scénarii de rénovation et leur garantie de performance. <br />
