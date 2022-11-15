@@ -1,5 +1,6 @@
 # Base de données DPE Logements de l'ADEME - Vie sociale des données
 
+<html>
 
 # I- Description de la base de données
 
@@ -241,5 +242,5 @@ Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité
 
 
 
-
+</html>
 
