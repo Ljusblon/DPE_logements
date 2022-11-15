@@ -94,11 +94,13 @@ La moyenne de l’estimation GES en Kg eqCO2/m2.an pour chaque logement est de 2
 Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_energie et un GROUP BY par classe énergétique permet d’obtenir la répartition suivante : 
 
 ![image](./3_ccc_classe_energetique.png "Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».")
+
 *Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».*
 
 De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimation_ges et un GROUP BY par classe environnementales permet d’obtenir la répartition suivante : 
 
 ![image](./4_ccc_classe_environ.png "Titre : Nombre d’occurrences de chaque classe environnementale pour les 240 000 entrées de la base de données « DPE Logements ».")
+
 *Titre : Nombre d’occurrences de chaque classe environnementale pour les 240 000 entrées de la base de données « DPE Logements ».*
 
 En outre, la médiane des années de construction se situe autour de 1970, indépendamment des données incohérentes. La plage de construction des logements de cette base de données est donc comprise entre le début du XVIIIe siècle et 2017. Nous fixons la date de construction des premiers logements au début du XVIIIe siècle, ne pouvant attester de la véracité des dates antérieures avancées. 
