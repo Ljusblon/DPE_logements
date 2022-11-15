@@ -78,7 +78,9 @@ La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en tr
 Le DPE doit être établi par un professionnel répondant des conditions de compétences, d’assurance, d’organisation et de moyens mais également d’indépendance et d’impartialité conformément aux dispositions de l’article L.271-6 du CCH.  
   </div>
   
+  <div align="justify">
 L’article D134-4-2 du CCH a modifié la durée de validité des diagnostics de performance énergétique :
+  </div>
 - Les diagnostics réalisés à compter du 1er juillet 2021 seront valable dix ans ;
 - Ceux réalisés entre le 1er janvier 2013 et le 31 décembre 2017 sont valides jusqu'au 31 décembre 2022 ;
 - Et ceux réalisés entre le 1er janvier 2018 et le 30 juin 2021 jusqu'au 31 décembre 2024.
@@ -314,7 +316,3 @@ Seulement, la méthode de calcul des PDE ne prend pas en compte l’ensemble des
 De fait, les préconisations de travaux et les économies d’énergie qui y sont associées ne peuvent pas être justes. En outre, même en essayant de caractériser le plus fidèlement possible un bâtiment avec son enveloppe, son environnement et ses usages, nombre d’incertitudes subsistent, dont une part demeure inconnue, à l’image de la dégradation de la performance thermique des matériaux dans le temps. <br />
 Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité des paramètres pris en compte, déjà mis en œuvre lors de la construction de nouveau bâtiment, devraient être mises en place dans le cadre des rénovation énergétiques. 
    </div>
-
-
-
-
