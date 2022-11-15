@@ -42,13 +42,13 @@ Le calcul du DPE s'effectue à partir d'une série de critères correspondant au
 Ce calcul permet d'établir une consommation énergétique en kilowattheure par mètre carré et par an pour l’étiquette énergie, qui permet de déterminer le nombre de kilos d'équivalent CO2 émis par mètre carré et par an par le logement concerné, pour l’étiquette climat.
 
 La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en trois catégories :
-1	Les informations clef du DPE : données concernant les étiquettes énergie et émissions de gaz à effet de serre du logement. Ces données correspondent aux indicateurs suivants :
+1.	Les informations clef du DPE : données concernant les étiquettes énergie et émissions de gaz à effet de serre du logement. Ces données correspondent aux indicateurs suivants :
   - La consommation énergie en kWhEP/m².an ;
   -	Le classement consommation d'énergie ;
   -	L’estimation d'émission de GES en Kg eqCO2/m².an ;
   -	Le classement GES.
-2	Les éléments d'identification et de géolocalisation du logement ou du bâtiment : adresse postale complète, coordonnées géographiques, type de bâtiment.
-3	Les éléments techniques qui entrent dans le calcul DPE, soit l'ensemble des caractéristiques physiques du logement ou du bâtiment (surfaces, matériaux), mais aussi :
+2.	Les éléments d'identification et de géolocalisation du logement ou du bâtiment : adresse postale complète, coordonnées géographiques, type de bâtiment.
+3.	Les éléments techniques qui entrent dans le calcul DPE, soit l'ensemble des caractéristiques physiques du logement ou du bâtiment (surfaces, matériaux), mais aussi :
   -	Le type d'installation de chauffage ;
   -	Le type d'énergie de chauffage ;
   -	Le type d'installation pour l'eau chaude sanitaire (ECS) ;
