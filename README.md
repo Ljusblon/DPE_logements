@@ -1,6 +1,6 @@
 # Base de données DPE Logements de l'ADEME - Vie sociale des données
 
-<html>
+
 
 # I- Description de la base de données
 
@@ -28,7 +28,7 @@ La lecture du DPE est facilitée par deux étiquettes à sept classes. L’éche
  
 ![image](./1_Echelle_performance.png "Titre : Échelle de performance énergétique et environnementale.")
 
-*Titre : Échelle de performance énergétique et environnementale.*
+*Titre : Échelle de performance énergétique et environnementale.*<br />
 *Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/*
 
 Cette figure représente les échelles de performance énergétique et environnementale dans le cadre du Diagnostic de Performance Énergétique. Ces dernières sont respectivement exprimées en kWhEP/m2.an et en kg eqCO2/m2.an.
@@ -242,5 +242,4 @@ Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité
 
 
 
-</html>
 
