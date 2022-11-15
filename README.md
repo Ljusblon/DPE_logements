@@ -84,8 +84,8 @@ L’article D134-4-2 du CCH a modifié la durée de validité des diagnostics de
 - Et ceux réalisés entre le 1er janvier 2018 et le 30 juin 2021 jusqu'au 31 décembre 2024.
 
   <div align="justify">
-À compter du 1er juillet 2021, le DPE devient opposable : dès lors que l’absence d’information ou l’information erronée lui cause un préjudice, l’acquéreur ou le locataire peut se prévaloir des informations relatives à la performance énergétique à l’encontre du vendeur ou du bailleur pour obtenir réparation. 
-Aussi, si un bien est vendu ou loué sous l’étiquette E alors qu’il appartient à la catégorie G, l’acquéreur pourra contraindre le vendeur à réaliser des travaux.  
+À compter du 1er juillet 2021, le DPE devient opposable : dès lors que l’absence d’information ou l’information erronée lui cause un préjudice, l’acquéreur ou le locataire peut se prévaloir des informations relatives à la performance énergétique à l’encontre du vendeur ou du bailleur pour obtenir réparation. <br />
+Aussi, si un bien est vendu ou loué sous l’étiquette E alors qu’il appartient à la catégorie G, l’acquéreur pourra contraindre le vendeur à réaliser des travaux. <br />
 L’arrêté du 31 mars 2021 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiments à usage d'habitation en France métropolitaine détermine le contenu des diagnostics de performance énergétiques. Il précise les modalités d'établissement de ces derniers et la méthode de calcul conventionnelle à mobiliser. 
   </div>
 
@@ -110,9 +110,9 @@ Les champs de la base de données retenues sont les suivants :
 
   <div align="justify">
 Quelques requêtes SQL permettent d’extraire les informations suivantes : 
-La moyenne de la consommation d’énergie pour les 240 000 logements recensés est de 187,1 kWhEP/M2.an, tandis que la médiane est de 190 kWhEP/M2.an.
+La moyenne de la consommation d’énergie pour les 240 000 logements recensés est de 187,1 kWhEP/M2.an, tandis que la médiane est de 190 kWhEP/M2.an. <br />
 
-La moyenne de l’estimation GES en Kg eqCO2/m2.an pour chaque logement est de 23,7 Kg eqCO2/m2.an, tandis que la médiane est de 13 Kg eqCO2/m2.an. Cette différence s’explique notamment par des valeurs d’émissions de GES extrêmes et/ou incohérentes, comprises entre 3261 et 375.
+La moyenne de l’estimation GES en Kg eqCO2/m2.an pour chaque logement est de 23,7 Kg eqCO2/m2.an, tandis que la médiane est de 13 Kg eqCO2/m2.an. Cette différence s’explique notamment par des valeurs d’émissions de GES extrêmes et/ou incohérentes, comprises entre 3261 et 375. <br />
 
 Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_energie et un GROUP BY par classe énergétique permet d’obtenir la répartition suivante : 
   </div>
