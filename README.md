@@ -106,7 +106,7 @@ Les propriétaires bailleurs ne peuvent pas être soumis à l’obligation de r�
 
 Les champs de la base de données retenues sont les suivants : 
 <p align="center">
-  <img width="950" height="820" src="./2_dico_champs.png">
+  <img width="980" height="820" src="./2_dico_champs.png">
 </p>
 
   <div align="justify">
