@@ -152,7 +152,7 @@ Une courte requête avec un SELECT COUNT sur la colonne tr001_modele_dpe_type_li
 
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
 <p align="center">
-  <img width="764" height="297" src="./5_dico_tr001.png">
+  <img width="764" height="297" src="./5a_dico_tr001.png">
 </p>
  
 Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_description et un GROUP BY par type de bâtiment permet d’obtenir la répartition suivante : 
@@ -163,9 +163,17 @@ Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_desc
 | Bâtiment collectif à usage principal d’habitation | 3 830 |
 | Total | 240 000 |
 
+<p align="center">
+  <img width="862" height="252" src="./5b_occurrences.png">
+</p>
+
+<p align="center">
+  <img width="500" height="222" src="./6b_occurrences.png">
+</p>
+
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
 <p align="center">
-  <img width="1112" height="270" src="./6_dico_tr002.png">
+  <img width="1097" height="225" src="./6a_dico_tr002.png">
 </p>
 
 # II- Usages et usagers de la base de données
