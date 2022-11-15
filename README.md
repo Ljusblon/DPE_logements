@@ -15,9 +15,9 @@ Parmi les principaux secteurs concernés se trouve le secteur du bâtiment, en t
 
   <div align="justify">
 En 2020, l'ADEME, avec l'appui d'Etalab, a mis à disposition sur les portails data.ademe.fr et data.gouv.fr la base des Diagnostics de Performance Énergétique (DPE) des logements et des bâtiments tertiaires pour l’ensemble du territoire français métropolitain.
-La base de données DPE est relativement volumineuse avec plus de 240 000 entrées et près de 4 millions de données, le tout dans un format adaptée à l’open data, puisque cette dernière est diffusée au format CSV et SQL. 
+La base de données DPE est relativement volumineuse avec plus de 240 000 entrées et près de 4 millions de données, le tout dans un format adaptée à l’open data, puisque cette dernière est diffusée au format CSV et SQL. <br />
 Les équipes de l’ADEME et d’Etalab ont travaillé de concert pour extraire efficacement les données de la base source. Initialement, les données DPE étant saisies par les diagnostiqueurs eux-mêmes, puis agrégées et centralisées dans la base de données de l'ADEME, des erreurs de saisie sont fréquentes, notamment sur les champs correspondants à l'adresse du logement, bâtiment concerné par le DPE ou encore son année de construction.
-Etalab a également mis en place un traitement pour le géocodage de la base de données. Le géocodage consiste à affecter des coordonnées géographiques à une adresse postale. 
+Etalab a également mis en place un traitement pour le géocodage de la base de données. Le géocodage consiste à affecter des coordonnées géographiques à une adresse postale. <br />
 Etalab a utilisé le géocodeur Addok en s'appuyant sur la Base d'Adresse Nationale (BAN). Enfin, les données DPE ont enfin été enrichies de coordonnées géographiques avec la longitude et latitude, ainsi que d'une adresse « corrigée » récupérée avec la BAN. Une fois le géocodage réalisé, l'ADEME a pu mettre à disposition les données à la maille départementale.
   </div>
   
@@ -42,6 +42,7 @@ Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-def
   </div>
   
   <div align="justify">
+  <br />
 Cette figure représente les échelles de performance énergétique et environnementale dans le cadre du Diagnostic de Performance Énergétique. Ces dernières sont respectivement exprimées en kWhEP/m2.an et en kg eqCO2/m2.an.
 À propos du critère énergétique, kWhEP/m2.an est l’unité la plus répandue et la plus représentative de la performance d’un bâtiment, indépendamment de l’énergie utilisée. Pour le critère environnemental, les émissions de CO2, principal responsable des émissions de GES, restent également le critère le plus connu et utilisé. Seulement, il existe bien d’autres critères que l’on retrouve notamment dans le cadre d’une Analyse de Cycle de Vie, d’autant que résonner sur un seul d’entre eux en cherchant à l’optimiser peut-être sujet à des transferts de pollutions ou des effets rebonds. 
 
