@@ -27,7 +27,7 @@ La lecture du DPE est facilitée par deux étiquettes à sept classes. L’éche
  
 ![image](./1_Echelle_performance.png "Titre : Échelle de performance énergétique et environnementale.")
 
-*Titre : Échelle de performance énergétique et environnementale.*<Enter>
+*Titre : Échelle de performance énergétique et environnementale.*
 *Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/*
 
 Cette figure représente les échelles de performance énergétique et environnementale dans le cadre du Diagnostic de Performance Énergétique. Ces dernières sont respectivement exprimées en kWhEP/m2.an et en kg eqCO2/m2.an.
