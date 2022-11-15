@@ -106,7 +106,7 @@ Les propriétaires bailleurs ne peuvent pas être soumis à l’obligation de r�
 
 Les champs de la base de données retenues sont les suivants : 
 <p align="center">
-  <img width="766" height="443" src="./2_dico_champs.png">
+  <img width="1100" height="820" src="./2_dico_champs.png">
 </p>
 
   <div align="justify">
@@ -119,7 +119,7 @@ Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_ener
   </div>
 
 <p align="center">
-  <img width="766" height="443" src="./3_ccc_classe_energetique.png">
+  <img width="754" height="454" src="./3_ccc_classe_energetique.png">
 </p>
 
   <div align="center">
@@ -129,7 +129,7 @@ Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_ener
 De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimation_ges et un GROUP BY par classe environnementales permet d’obtenir la répartition suivante : 
   
 <p align="center">
-  <img width="766" height="443" src="./4_ccc_classe_environ.png">
+  <img width="754" height="454" src="./4_ccc_classe_environ.png">
 </p>
 
   <div align="center">
@@ -153,7 +153,7 @@ Une courte requête avec un SELECT COUNT sur la colonne tr001_modele_dpe_type_li
 
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
 <p align="center">
-  <img width="766" height="443" src="./5_dico_tr001.png">
+  <img width="764" height="297" src="./5_dico_tr001.png">
 </p>
  
 Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_description et un GROUP BY par type de bâtiment permet d’obtenir la répartition suivante : 
@@ -166,7 +166,7 @@ Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_desc
 
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
 <p align="center">
-  <img width="766" height="443" src="./6_dico_tr002.png">
+  <img width="1112" height="298" src="./6_dico_tr002.png">
 </p>
 
 # II- Usages et usagers de la base de données
