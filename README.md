@@ -33,10 +33,9 @@ La lecture du DPE est facilitée par deux étiquettes à sept classes. L’éche
   </div>
 
 <p align="center">
-  <img width="460" height="300" src="./1_Echelle_performance.png">
+  <img width="766" height="443" src="./1_Echelle_performance.png">
 </p>
 
-![image](./1_Echelle_performance.png "Titre : Échelle de performance énergétique et environnementale.")
   <div align="center">
 Titre : Échelle de performance énergétique et environnementale. <br />
 Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/
