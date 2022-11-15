@@ -145,7 +145,7 @@ Nul besoin d’écrire tout ce code avec Xampp qui facilite grandement la créat
 ## 2) Diagnostics de performance énergétique pour les logements - Classe énergétique
 
 ![image](./9_diag_classe_energetique.png "Titre : Diagnostics de performance énergétique pour les logements - Classe énergétique.")
-*Titre : Diagnostics de performance énergétique pour les logements - Classe énergétique.*
+*Titre : Diagnostics de performance énergétique pour les logements - Classe énergétique.*<br />
 *Source : https://data.ademe.fr/datasets/dpe-france*
 
 Cette carte présente les DPE des logements en fonction de leur classe énergétique.
@@ -167,7 +167,7 @@ https://user-images.githubusercontent.com/111519260/201638903-571ff5b1-651e-45b4
 ## 3) Diagnostics de performance énergétique pour les logements - Classe GES  
 
 ![image](./11_diag_classe_GES.png "Titre : Diagnostics de performance énergétique pour les logements - Classe GES.")
-*Titre : Diagnostics de performance énergétique pour les logements - Classe GES.*
+*Titre : Diagnostics de performance énergétique pour les logements - Classe GES.*<br />
 *Source : https://data.ademe.fr/datasets/dpe-france*
 
 Cette carte présente les DPE des logements en fonction de leur classe énergétique.
@@ -176,7 +176,7 @@ Les diagnostics de performance énergétique (DPE) sont transmis à l’ADEME à
 ## 4) Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES
 
 ![image](./12_diag_relation_classes.png "Titre : Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES.")
-*Titre : Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES.*
+*Titre : Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES.*<br />
 *Source : https://data.ademe.fr/datasets/dpe-france*
 
 Cette représentation met en relation les "classes de consommation d'énergie" et les "classes GES" pour les diagnostics de performance énergétique (DPE) des logements.
@@ -216,28 +216,28 @@ La base DPE constitue outil clé des politiques de rénovations énergétiques t
 - « Le croisement des données DPE avec les données d'ancienneté du parc de logements, afin de comprendre la corrélation entre ancienneté des logements et consommation énergétique et d'établir des zonages de bâtis à rénover. »
 
 Les différents travaux de valorisation des données se feraient au bénéfice de nombreux acteurs :
-- Pour les acteurs publics qui souhaitent piloter leurs politiques publiques par la donnée : l'exploitation des données de la base DPE Logements permettrait de mieux caractériser le parc immobilier français, de favoriser le recours à certains modes de consommation, ou encore de d'identifier les zones d'habitat indigne.
-- Pour les acteurs privés qui cherchent à développer des offres de services ou de produits relatifs à la rénovation des bâtiments : la valorisation des données permettrait de mieux cibler les besoins en fonction des territoires et des logements et affinerait l'offre proposée aux particuliers ou aux acteurs publics.
+- Pour les acteurs publics qui souhaitent piloter leurs politiques publiques par la donnée : l'exploitation des données de la base DPE Logements permettrait de mieux caractériser le parc immobilier français, de favoriser le recours à certains modes de consommation, ou encore de d'identifier les zones d'habitat indigne. <br />
+- Pour les acteurs privés qui cherchent à développer des offres de services ou de produits relatifs à la rénovation des bâtiments : la valorisation des données permettrait de mieux cibler les besoins en fonction des territoires et des logements et affinerait l'offre proposée aux particuliers ou aux acteurs publics. <br />
 - Pour le milieu de la recherche ou pour les acteurs de la transition écologique qui souhaitent s'appuyer sur d'important volumes de données afin d'étudier les enjeux de la transition énergétique, en vue de proposer des axes d'améliorations qui s'appuient sur des éléments empiriques.
 - 
 # III- Limites et perspectives de la base de données
 
 ## 1) La non-représentativité des données et leur qualité
 
-L’ADEME souligne d’emblée que les données fournies, sont les données brutes de l’observatoire DPE qui contient l’ensemble des DPE effectués par les diagnostiqueurs immobiliers. Leur interprétation doit être faite avec précaution, en ce sens où le DPE est obligatoire seulement pour une vente, une location ou à l'achèvement de toute nouvelle construction. Aussi, tous les biens ne sont pas dotés d'un DPE. À ce titre, cette base ne couvre pas tout le parc immobilier et n’en donc est pas pleinement représentative.
+L’ADEME souligne d’emblée que les données fournies, sont les données brutes de l’observatoire DPE qui contient l’ensemble des DPE effectués par les diagnostiqueurs immobiliers. Leur interprétation doit être faite avec précaution, en ce sens où le DPE est obligatoire seulement pour une vente, une location ou à l'achèvement de toute nouvelle construction. Aussi, tous les biens ne sont pas dotés d'un DPE. À ce titre, cette base ne couvre pas tout le parc immobilier et n’en donc est pas pleinement représentative. <br />
 Pour estimer la performance énergétique et environnementale de l'ensemble du parc français et la distribution nationale des classes DPE, un travail de redressement des données devrait être fait. Il nécessite l’utilisation de la base de données DPE, mais aussi la mobilisation d’autres bases de données telles que le répertoire de logements de l'Insee « Fidéli » ou encore les distributions d'énergies principales de chauffage des résidences principales estimées par le recensement de la population.
 
-Les données mises à disposition sont les données brutes saisies par les diagnostiqueurs, sur lesquelles l’ADEME n’effectue aucune reprise de données. Dans ce cadre, l’ADEME ne peut en aucun cas être tenue responsable de la qualité des données qui lui sont transmises.
+Les données mises à disposition sont les données brutes saisies par les diagnostiqueurs, sur lesquelles l’ADEME n’effectue aucune reprise de données. Dans ce cadre, l’ADEME ne peut en aucun cas être tenue responsable de la qualité des données qui lui sont transmises. <br />
 Contrairement aux données envoyées sur l’ancien observatoire, néanmoins elles font l’objet de contrôles de cohérence. En cas de non-conformité, le DPE est rejeté si le contrôle est bloquant. 
 
 ## 2) Les limites du DPE et donc par extension de la Bdd
 
 Il convient de souligner la principale limite de la base DPE logements et de son exploitation. En effet, les diagnostics sont réalisés de façon à rendre comptable la performance des bâtiments sans tenir compte de leur usage, ni de leur environnement extérieur. Le résultat obtenu est donc seulement une performance standardisée du bâtiment et en aucun cas une image de la performance réelle de ce dernier. De fait, les préconisations faites à l’issue de ces diagnostics ne sont que rarement propre au bâtiment et à ses usages. Les économies qui en découlent sont donc entachées d’erreurs d’appréciation. Il faudrait donc repenser le diagnostic énergétique en prenant en compte l’environnement extérieur de chaque bâtiment, leurs usages, le fonctionnement réel des bâtiments ainsi que les incertitudes qui y sont associées. 
 
-Martin Amiel montre bien dans sa thèse, sur une optimisation du diagnostic de performance énergétique, que pour réussir à rendre performant l’ensemble des projets de rénovation, il est nécessaire de sortir du schéma classique et de travailler sur l’ensemble de la chaîne de valeur de la rénovation : du diagnostic au suivi de la performance, en passant par la préconisation des scénarii de rénovation et leur garantie de performance. 
-La plupart des rénovations engagées sont uniquement fondées sur un simple diagnostic énergétique. Ces diagnostics, fondés sur un calcul conventionnel ou des factures de consommations d’énergie, n’ont pas pour objectif de représenter les consommations réelles du bâtiment, mais de pouvoir comparer la formance des bâtiments entre eux, en se fondant sur un usage trop standardisé du bâtiment. 
-Seulement, la méthode de calcul des PDE ne prend pas en compte l’ensemble des usages énergétique des bâtiments et les calculs de consommations comprennent nombre de valeurs forfaitaires ne permettant pas de retranscrire les usages, caractéristiques et l’environnement extérieur des bâtiments. 
-De fait, les préconisations de travaux et les économies d’énergie qui y sont associées ne peuvent pas être justes. En outre, même en essayant de caractériser le plus fidèlement possible un bâtiment avec son enveloppe, son environnement et ses usages, nombre d’incertitudes subsistent, dont une part demeure inconnue, à l’image de la dégradation de la performance thermique des matériaux dans le temps. 
+Martin Amiel montre bien dans sa thèse, sur une optimisation du diagnostic de performance énergétique, que pour réussir à rendre performant l’ensemble des projets de rénovation, il est nécessaire de sortir du schéma classique et de travailler sur l’ensemble de la chaîne de valeur de la rénovation : du diagnostic au suivi de la performance, en passant par la préconisation des scénarii de rénovation et leur garantie de performance. <br />
+La plupart des rénovations engagées sont uniquement fondées sur un simple diagnostic énergétique. Ces diagnostics, fondés sur un calcul conventionnel ou des factures de consommations d’énergie, n’ont pas pour objectif de représenter les consommations réelles du bâtiment, mais de pouvoir comparer la formance des bâtiments entre eux, en se fondant sur un usage trop standardisé du bâtiment. <br />
+Seulement, la méthode de calcul des PDE ne prend pas en compte l’ensemble des usages énergétique des bâtiments et les calculs de consommations comprennent nombre de valeurs forfaitaires ne permettant pas de retranscrire les usages, caractéristiques et l’environnement extérieur des bâtiments. <br />
+De fait, les préconisations de travaux et les économies d’énergie qui y sont associées ne peuvent pas être justes. En outre, même en essayant de caractériser le plus fidèlement possible un bâtiment avec son enveloppe, son environnement et ses usages, nombre d’incertitudes subsistent, dont une part demeure inconnue, à l’image de la dégradation de la performance thermique des matériaux dans le temps. <br />
 Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité des paramètres pris en compte, déjà mis en œuvre lors de la construction de nouveau bâtiment, devraient être mises en place dans le cadre des rénovation énergétiques. 
 
 
