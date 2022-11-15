@@ -195,7 +195,7 @@ Nul besoin d’écrire tout ce code avec Xampp qui facilite grandement la créat
 
   <div align="center">
 Titre : Diagnostic de performance énergétique pour les logements - Classe énergétique. <br />
-Source : https://data.ademe.fr/datasets/dpe-france
+Source : https://data.ademe.fr/datasets/dpe-france <br />
   </div>
 
   <div align="justify">
@@ -211,7 +211,7 @@ Les diagnostics de performance énergétique sont transmis à l’ADEME à des f
 https://user-images.githubusercontent.com/111519260/201638903-571ff5b1-651e-45b4-a8ec-50609354dfa9.mp4
 
   <div align="center">
-*Titre : Animation du diagnostic de performance énergétique pour les logements entre 1900 et 2021.*<br />
+Titre : Animation du diagnostic de performance énergétique pour les logements entre 1900 et 2021. <br />
   </div>
 
 ## 3) Diagnostics de performance énergétique pour les logements - Classe GES  
@@ -222,7 +222,7 @@ https://user-images.githubusercontent.com/111519260/201638903-571ff5b1-651e-45b4
 
   <div align="center">
 Titre : Diagnostic de performance énergétique pour les logements - Classe GES. <br />
-Source : https://data.ademe.fr/datasets/dpe-france
+Source : https://data.ademe.fr/datasets/dpe-france <br />
   </div>
   
   <div align="justify">
