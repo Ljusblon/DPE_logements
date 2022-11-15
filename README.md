@@ -49,11 +49,11 @@ La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en tr
   >> -	L’estimation d'émission de GES en Kg eqCO2/m².an ;
   >> -	Le classement GES.
 -	Les éléments d'identification et de géolocalisation du logement ou du bâtiment : adresse postale complète, coordonnées géographiques, type de bâtiment.
--	Les éléments techniques qui entrent dans le calcul DPE, soit l'ensemble des caractéristiques physiques du logement ou du bâtiment (surfaces, matériaux), mais aussi :
-  > -	Le type d'installation de chauffage ;
-  > -	Le type d'énergie de chauffage ;
-  > -	Le type d'installation pour l'eau chaude sanitaire (ECS) ;
-  > -	Le type d'énergie d'ECS.
+*	Les éléments techniques qui entrent dans le calcul DPE, soit l'ensemble des caractéristiques physiques du logement ou du bâtiment (surfaces, matériaux), mais aussi :
+  *	Le type d'installation de chauffage ;
+  *	Le type d'énergie de chauffage ;
+  *	Le type d'installation pour l'eau chaude sanitaire (ECS) ;
+  *	Le type d'énergie d'ECS.
 
 
 ## 3) Cadre réglementaire qui enserre le DPE
