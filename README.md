@@ -81,14 +81,18 @@ L’article D134-4-2 du CCH a modifié la durée de validité des diagnostics de
 - Ceux réalisés entre le 1er janvier 2013 et le 31 décembre 2017 sont valides jusqu'au 31 décembre 2022 ;
 - Et ceux réalisés entre le 1er janvier 2018 et le 30 juin 2021 jusqu'au 31 décembre 2024.
 
+  <div align="justify">
 À compter du 1er juillet 2021, le DPE devient opposable : dès lors que l’absence d’information ou l’information erronée lui cause un préjudice, l’acquéreur ou le locataire peut se prévaloir des informations relatives à la performance énergétique à l’encontre du vendeur ou du bailleur pour obtenir réparation. 
 Aussi, si un bien est vendu ou loué sous l’étiquette E alors qu’il appartient à la catégorie G, l’acquéreur pourra contraindre le vendeur à réaliser des travaux.  
 L’arrêté du 31 mars 2021 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiments à usage d'habitation en France métropolitaine détermine le contenu des diagnostics de performance énergétiques. Il précise les modalités d'établissement de ces derniers et la méthode de calcul conventionnelle à mobiliser. 
+  </div>
 
 ### b) Cadre réglementaire - rénovations thermiques
 
+  <div align="justify">
 La loi Énergie-Climat du 8 décembre 2019 vise à lutter contre la précarité énergétique et à limiter les émissions de CO2 de la France. L’objectif étant d’atteindre la neutralité carbone. Pour cela, la loi impose aux bailleurs de rénover certains logements énergivores, souvent nommés « passoires thermiques ». 
 Les propriétaires bailleurs ne peuvent pas être soumis à l’obligation de rénover leur logement du jour au lendemain. Pour éliminer les passoires thermiques, un calendrier a été mis en place :
+  </div>
 - En 2021, il n’est plus possible d’augmenter le loyer entre deux locataires si aucun chantier de rénovation thermique n’a été réalisé dans le logement.
 - En 2022, les propriétaires-bailleurs sont tenus de faire réaliser un audit énergétique de leur bien. Cet audit donnera lieu à des conseils en matière de rénovation thermique.
 - À partir de 2025, les propriétaires de logements énergivores consommant plus de 330 kW/m²/an seront tenus d'effectuer des travaux pour améliorer la performance énergétique globale du bâti. Car dès 2025, ces passoires thermiques seront non seulement régulées mais aussi interdites à la location, avec une obligation de « remise à niveau thermique », accompagnée d'un bilan énergétique.
@@ -100,25 +104,32 @@ Les propriétaires bailleurs ne peuvent pas être soumis à l’obligation de r�
 Les champs de la base de données retenues sont les suivants : 
 ![image](./2_dico_champs.png "Titre : Les champs de la base de données DPE Logements.")
 
+  <div align="justify">
 Quelques requêtes SQL permettent d’extraire les informations suivantes : 
 La moyenne de la consommation d’énergie pour les 240 000 logements recensés est de 187,1 kWhEP/M2.an, tandis que la médiane est de 190 kWhEP/M2.an.
 
 La moyenne de l’estimation GES en Kg eqCO2/m2.an pour chaque logement est de 23,7 Kg eqCO2/m2.an, tandis que la médiane est de 13 Kg eqCO2/m2.an. Cette différence s’explique notamment par des valeurs d’émissions de GES extrêmes et/ou incohérentes, comprises entre 3261 et 375.
 
 Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_energie et un GROUP BY par classe énergétique permet d’obtenir la répartition suivante : 
-
+  </div>
+  
 ![image](./3_ccc_classe_energetique.png "Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».")
-
+  <div align="center">
 *Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».*
-
+  </div>
+  
 De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimation_ges et un GROUP BY par classe environnementales permet d’obtenir la répartition suivante : 
-
+  
 ![image](./4_ccc_classe_environ.png "Titre : Nombre d’occurrences de chaque classe environnementale pour les 240 000 entrées de la base de données « DPE Logements ».")
-
+  
+  <div align="center">
 *Titre : Nombre d’occurrences de chaque classe environnementale pour les 240 000 entrées de la base de données « DPE Logements ».*
-
+  </div>
+  
+  <div align="justify">
 En outre, la médiane des années de construction se situe autour de 1970, indépendamment des données incohérentes. La plage de construction des logements de cette base de données est donc comprise entre le début du XVIIIe siècle et 2017. Nous fixons la date de construction des premiers logements au début du XVIIIe siècle, ne pouvant attester de la véracité des dates antérieures avancées. 
-
+  </div>
+  
 Une courte requête avec un SELECT COUNT sur la colonne tr001_modele_dpe_type_libelle et un GROUP BY par type de DPE permet d’obtenir la répartition suivante : 
 |Type de DPE|Occurrences|
 |--------|--------|
@@ -161,12 +172,17 @@ Nul besoin d’écrire tout ce code avec Xampp qui facilite grandement la créat
 ## 2) Diagnostics de performance énergétique pour les logements - Classe énergétique
 
 ![image](./9_diag_classe_energetique.png "Titre : Diagnostics de performance énergétique pour les logements - Classe énergétique.")
-*Titre : Diagnostics de performance énergétique pour les logements - Classe énergétique.*<br />
-*Source : https://data.ademe.fr/datasets/dpe-france*
 
+  <div align="center">
+*Titre : Diagnostic de performance énergétique pour les logements - Classe énergétique.*<br />
+*Source : https://data.ademe.fr/datasets/dpe-france*
+  </div>
+
+  <div align="justify">
 Cette carte présente les DPE des logements en fonction de leur classe énergétique.
 Les diagnostics de performance énergétique sont transmis à l’ADEME à des fins d'études statistiques, d'évaluation et d'amélioration méthodologique en vertu de l’article L134-4-2 du code de la construction et de l’habitation.
 À Partir de cette carte interactive, nous avons pu générer un gif permettant de voir l’évolution des DPE. Cette animation a été réalisé à partir de 18 images prises à intervalle régulier entre 6 et 7 ans pour les logements construits entre 1900 et 2021.
+   </div>
 
 GIF DPE low.mp4
 https://ezgif.com/maker
@@ -177,30 +193,42 @@ https://ezgif.com/maker
 
 https://user-images.githubusercontent.com/111519260/201638903-571ff5b1-651e-45b4-a8ec-50609354dfa9.mp4
 
+  <div align="center">
+*Titre : Animation du diagnostic de performance énergétique pour les logements entre 1900 et 2021.*<br />
+  </div>
 
 
 
 ## 3) Diagnostics de performance énergétique pour les logements - Classe GES  
 
 ![image](./11_diag_classe_GES.png "Titre : Diagnostics de performance énergétique pour les logements - Classe GES.")
-*Titre : Diagnostics de performance énergétique pour les logements - Classe GES.*<br />
+  <div align="center">
+*Titre : Diagnostic de performance énergétique pour les logements - Classe GES.*<br />
 *Source : https://data.ademe.fr/datasets/dpe-france*
-
+  </div>
+  
+  <div align="justify">
 Cette carte présente les DPE des logements en fonction de leur classe énergétique.
 Les diagnostics de performance énergétique (DPE) sont transmis à l’ADEME à des fins d'études statistiques, d'évaluation et d'amélioration méthodologique en vertu de l’article L134-4-2 du code de la construction et de l’habitation.
+   </div>
 
 ## 4) Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES
 
 ![image](./12_diag_relation_classes.png "Titre : Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES.")
+  <div align="center">
 *Titre : Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES.*<br />
 *Source : https://data.ademe.fr/datasets/dpe-france*
-
+  </div>
+  
+  <div align="justify">
 Cette représentation met en relation les "classes de consommation d'énergie" et les "classes GES" pour les diagnostics de performance énergétique (DPE) des logements.
+  </div>
 
 ## 5) Autres usages possibles
 
 ### a) Le hackathon RenovAction
 
+<div align="justify">
 Les données contenues dans la base DPE ont été utilisées lors du hackathon RenovAction, du 11 au 22 juin 2020, co-organisé par l'ADEME, le Ministère de la Transition Ecologique et plusieurs partenaires, dont Etalab.
 Ce hackathon avait pour objectif de faire émerger des solutions pour la rénovation énergétique. L'évènement a permis de faire émerger de premières propositions d'outils et de plateformes s'appuyant sur les données de la base DPE Logements. 
 
@@ -223,6 +251,7 @@ Le projet Carto Reno est une plateforme permettant de cartographier et de caract
 ### e) Le projet Rénover pour tous
 
 Le projet Rénover pour tous est un dispositif proposant un nouveau mécanisme de financement « d’acquisition-rénovation globale » en séparant la valeur du bâti de celle du foncier. Avec l’acquisition du foncier par un organisme foncier solidaire, ce dispositif permet de solvabiliser les ménages-propriétaires aux revenus modestes dans l’incapacité de financer seuls une rénovation globale de leur logement, et de développer une offre en accession sociale de manière pérenne.
+  </div>
 
 ### f) D'autres usages potentiels
 
