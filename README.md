@@ -140,15 +140,6 @@ En outre, la médiane des années de construction se situe autour de 1970, indé
   </div>
   
 Une courte requête avec un SELECT COUNT sur la colonne tr001_modele_dpe_type_libelle et un GROUP BY par type de DPE permet d’obtenir la répartition suivante : 
-|Type de DPE|Occurrences|
-|--------|--------|
-| Vente | 165 166 |
-| Location | 51 770 |
-| Neuf | 18 055 |
-| Copropriété | 5001 |
-| Bâtiment public | 7 |
-| Centre commercial | 1 |
-| Total | 240 000 |
 
 <p align="center">
   <img width="862" height="252" src="./5b_occurrences.png">
@@ -160,12 +151,6 @@ Le dictionnaire de données de l’ADEME présente les entrées suivantes pour c
 </p>
  
 Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_description et un GROUP BY par type de bâtiment permet d’obtenir la répartition suivante : 
-|Type de bâtiment|Occurrences|
-|--------|--------|
-| Logement | 91 341 |
-| Maison Individuelle | 144 829 |
-| Bâtiment collectif à usage principal d’habitation | 3 830 |
-| Total | 240 000 |
 
 <p align="center">
   <img width="848" height="186" src="./6b_occurrences.png">
