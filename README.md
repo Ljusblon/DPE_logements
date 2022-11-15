@@ -106,7 +106,7 @@ Les propriétaires bailleurs ne peuvent pas être soumis à l’obligation de r�
 
 Les champs de la base de données retenues sont les suivants : 
 <p align="center">
-  <img width="1100" height="820" src="./2_dico_champs.png">
+  <img width="1000" height="820" src="./2_dico_champs.png">
 </p>
 
   <div align="justify">
@@ -166,7 +166,7 @@ Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_desc
 
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
 <p align="center">
-  <img width="1112" height="298" src="./6_dico_tr002.png">
+  <img width="1112" height="270" src="./6_dico_tr002.png">
 </p>
 
 # II- Usages et usagers de la base de données
