@@ -150,6 +150,10 @@ Une courte requête avec un SELECT COUNT sur la colonne tr001_modele_dpe_type_li
 | Centre commercial | 1 |
 | Total | 240 000 |
 
+<p align="center">
+  <img width="862" height="252" src="./5b_occurrences.png">
+</p>
+
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
 <p align="center">
   <img width="764" height="297" src="./5a_dico_tr001.png">
@@ -164,11 +168,7 @@ Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_desc
 | Total | 240 000 |
 
 <p align="center">
-  <img width="862" height="252" src="./5b_occurrences.png">
-</p>
-
-<p align="center">
-  <img width="500" height="222" src="./6b_occurrences.png">
+  <img width="848" height="186" src="./6b_occurrences.png">
 </p>
 
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
