@@ -33,10 +33,10 @@ La lecture du DPE est facilitée par deux étiquettes à sept classes. L’éche
   </div>
 
 ![image](./1_Echelle_performance.png "Titre : Échelle de performance énergétique et environnementale.")
-  <div align="center">
-*Titre : Échelle de performance énergétique et environnementale.*<br />
-*Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/*
-  </div>
+  *<div align="center">
+Titre : Échelle de performance énergétique et environnementale.<br />
+Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/
+  </div>*
   </br>
   <div align="justify">
 Cette figure représente les échelles de performance énergétique et environnementale dans le cadre du Diagnostic de Performance Énergétique. Ces dernières sont respectivement exprimées en kWhEP/m2.an et en kg eqCO2/m2.an.
@@ -255,7 +255,9 @@ Le projet Rénover pour tous est un dispositif proposant un nouveau mécanisme d
 
 ### f) D'autres usages potentiels
 
+  <div align="justify">
 La base DPE constitue outil clé des politiques de rénovations énergétiques tant au niveau local que national. La mise à disposition de cette base en open data ouvre la porte à de nombreux usages. Il est dès lors possible de visualiser sur le portail open data de l'ADEME la répartition géographique des classes DPE énergies et gaz à effet de serre. Ces premiers traitements sur la base de données laissent entrevoir les usages attendus d'une exploitation plus précise des données :
+  </div>
 - « Le croisement de la base DPE avec des données de travaux afin d'estimer l'impact de ces derniers sur la consommation d'énergie » ;
 - « Le croisement des données avec les consommations d'énergie des résidences tertiaires » ;
 - « Le croisement des données DPE avec les données d'ancienneté du parc de logements, afin de comprendre la corrélation entre ancienneté des logements et consommation énergétique et d'établir des zonages de bâtis à rénover. »
@@ -269,6 +271,7 @@ Les différents travaux de valorisation des données se feraient au bénéfice d
 
 ## 1) La non-représentativité des données et leur qualité
 
+  <div align="justify">
 L’ADEME souligne d’emblée que les données fournies, sont les données brutes de l’observatoire DPE qui contient l’ensemble des DPE effectués par les diagnostiqueurs immobiliers. Leur interprétation doit être faite avec précaution, en ce sens où le DPE est obligatoire seulement pour une vente, une location ou à l'achèvement de toute nouvelle construction. Aussi, tous les biens ne sont pas dotés d'un DPE. À ce titre, cette base ne couvre pas tout le parc immobilier et n’en donc est pas pleinement représentative. <br />
 Pour estimer la performance énergétique et environnementale de l'ensemble du parc français et la distribution nationale des classes DPE, un travail de redressement des données devrait être fait. Il nécessite l’utilisation de la base de données DPE, mais aussi la mobilisation d’autres bases de données telles que le répertoire de logements de l'Insee « Fidéli » ou encore les distributions d'énergies principales de chauffage des résidences principales estimées par le recensement de la population.
 
@@ -284,6 +287,7 @@ La plupart des rénovations engagées sont uniquement fondées sur un simple dia
 Seulement, la méthode de calcul des PDE ne prend pas en compte l’ensemble des usages énergétique des bâtiments et les calculs de consommations comprennent nombre de valeurs forfaitaires ne permettant pas de retranscrire les usages, caractéristiques et l’environnement extérieur des bâtiments. <br />
 De fait, les préconisations de travaux et les économies d’énergie qui y sont associées ne peuvent pas être justes. En outre, même en essayant de caractériser le plus fidèlement possible un bâtiment avec son enveloppe, son environnement et ses usages, nombre d’incertitudes subsistent, dont une part demeure inconnue, à l’image de la dégradation de la performance thermique des matériaux dans le temps. <br />
 Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité des paramètres pris en compte, déjà mis en œuvre lors de la construction de nouveau bâtiment, devraient être mises en place dans le cadre des rénovation énergétiques. 
+   </div>
 
 
 
