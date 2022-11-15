@@ -26,12 +26,14 @@ Etalab a utilisé le géocodeur Addok en s'appuyant sur la Base d'Adresse Nation
 <div align="justify">
   Selon l’ADEME, le diagnostic de performance énergétique renseigne sur la performance énergétique d’un logement ou d’un bâtiment, en évaluant sa consommation d’énergie et son impact en termes d’émissions de gaz à effet de serre. Il décrit le bâtiment ou le logement, ainsi que ses équipements de chauffage, de production d’eau chaude sanitaire, de refroidissement et de ventilation. Il indique, suivant les cas, soit la quantité d’énergie effectivement consommée sur la base de factures, soit la consommation d’énergie estimée pour une utilisation standardisée du bâtiment.
 Le DPE est un diagnostic réalisé en France sur les biens immobiliers. Il doit être présenté lors des transactions immobilières dont les ventes, locations et constructions neuves des logements et des bâtiments tertiaires tels que les bureaux, hôtel ou établissements publics. Il vise à informer le propriétaire et le locataire de la consommation d'énergie du logement ou du bâtiment tertiaire sur son chauffage, son refroidissement, sa production d'eau chaude sanitaire (ECS). L’ADEME rappelle que le DPE de certains bâtiments publics doit également être affiché dans le hall d’accueil du bâtiment. L'ADEME est également l'organisme chargé de collecter les DPE depuis 2013. Il convient d’ajouter que la durée de validité du DPE est de dix ans. 
+</div>
 
 La lecture du DPE est facilitée par deux étiquettes à sept classes. L’échelle est cotée de A, pour les logements les plus sobres, à G, pour les plus énergivores. La moyenne du parc immobilier français se situe autour de 240 kWhEP/m2.an, soit la classe E.
-</div>
+
 
 
 ![image](./1_Echelle_performance.png "Titre : Échelle de performance énergétique et environnementale.")
+
 <div align="center">
 *Titre : Échelle de performance énergétique et environnementale.*<br />
 *Source : https://www.limmovation.fr/le-diagnostic-de-performance-energetique-definition-et-evolution/*
