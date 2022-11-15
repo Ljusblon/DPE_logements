@@ -127,7 +127,8 @@ Une courte requête avec un SELECT COUNT sur la colonne classe_consommation_ener
   <div align="center">
 Titre : Nombre d’occurrences de chaque classe énergétique pour les 240 000 entrées de la base de données « DPE Logements ».
   </div>
-  
+ 
+  <br />
 De même, une courte requête avec un SELECT COUNT sur la colonne classe_estimation_ges et un GROUP BY par classe environnementales permet d’obtenir la répartition suivante : 
   
 <p align="center">
@@ -139,6 +140,7 @@ Titre : Nombre d’occurrences de chaque classe environnementale pour les 240 00
   </div>
   
   <div align="justify">
+  <br />
 En outre, la médiane des années de construction se situe autour de 1970, indépendamment des données incohérentes. La plage de construction des logements de cette base de données est donc comprise entre le début du XVIIIe siècle et 2017. Nous fixons la date de construction des premiers logements au début du XVIIIe siècle, ne pouvant attester de la véracité des dates antérieures avancées. 
   </div>
   
@@ -194,6 +196,7 @@ Source : https://data.ademe.fr/datasets/dpe-france <br />
   </div>
 
   <div align="justify">
+  <br />
 Cette carte présente les DPE des logements en fonction de leur classe énergétique.
 Les diagnostics de performance énergétique sont transmis à l’ADEME à des fins d'études statistiques, d'évaluation et d'amélioration méthodologique en vertu de l’article L134-4-2 du code de la construction et de l’habitation.
 À Partir de cette carte interactive, nous avons pu générer un gif permettant de voir l’évolution des DPE. Cette animation a été réalisé à partir de 18 images prises à intervalle régulier entre 6 et 7 ans pour les logements construits entre 1900 et 2021.
@@ -221,6 +224,7 @@ Source : https://data.ademe.fr/datasets/dpe-france <br />
   </div>
   
   <div align="justify">
+  <br />
 Cette carte présente les DPE des logements en fonction de leur classe énergétique.
 Les diagnostics de performance énergétique (DPE) sont transmis à l’ADEME à des fins d'études statistiques, d'évaluation et d'amélioration méthodologique en vertu de l’article L134-4-2 du code de la construction et de l’habitation.
    </div>
@@ -237,6 +241,7 @@ Source : https://data.ademe.fr/datasets/dpe-france
   </div>
   
   <div align="justify">
+  <br />
 Cette représentation met en relation les "classes de consommation d'énergie" et les "classes GES" pour les diagnostics de performance énergétique (DPE) des logements.
   </div>
 
