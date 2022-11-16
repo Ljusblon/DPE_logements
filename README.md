@@ -111,6 +111,10 @@ Les champs de la base de données retenues sont les suivants :
   <img width="980" height="820" src="./2_dico_champs.png">
 </p>
 
+<p align="center">
+  Source : ADEME, Observatoire des DPE Dictionnaire de données, Paris, 2021, [En ligne].
+</p>
+
   <div align="justify">
 Quelques requêtes SQL permettent d’extraire les informations suivantes : 
 La moyenne de la consommation d’énergie pour les 240 000 logements recensés est de 187,1 kWhEP/M2.an, tandis que la médiane est de 190 kWhEP/M2.an. <br />
@@ -154,7 +158,11 @@ Le dictionnaire de données de l’ADEME présente les entrées suivantes pour c
 <p align="center">
   <img width="764" height="297" src="./5a_dico_tr001.png">
 </p>
- 
+
+<p align="center">
+  Source : ADEME, Observatoire des DPE Dictionnaire de données, Paris, 2021, [En ligne].
+</p>
+
 Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_description et un GROUP BY par type de bâtiment permet d’obtenir la répartition suivante : 
 
 <p align="center">
@@ -164,6 +172,10 @@ Une courte requête avec un SELECT COUNT sur la colonne tr002_type_batiment_desc
 Le dictionnaire de données de l’ADEME présente les entrées suivantes pour ce champ : 
 <p align="center">
   <img width="1097" height="225" src="./6a_dico_tr002.png">
+</p>
+
+<p align="center">
+  Source : ADEME, Observatoire des DPE Dictionnaire de données, Paris, 2021, [En ligne].
 </p>
 
 # II- Usages et usagers de la base de données
