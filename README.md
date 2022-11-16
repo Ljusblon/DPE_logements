@@ -350,14 +350,14 @@ https://data.ademe.fr/datasets/dpe-france <br />
 <br />
 ADEME, « Publication des données de l’Observatoire DPE en OPEN DATA », Paris, 2021, [En ligne].
 https://observatoire-dpe.ademe.fr/articles/5d4179d6-9802-4d7c-91e1-4204897555b6 <br />
-
+<br />
 ADEME, « DPE Logements (depuis juillet 2021) », Paris, 2022, [En ligne].
 https://data.ademe.fr/datasets/dpe-v2-logements-neufs <br />
-
+<br />
 AMIEL Martin, <i> Méthode pour une optimisation du diagnostic de performance énergétique via une approche instrumentée </i>, Thèse de doctorat, Université Savoie Mont Blanc, Chambéry, 2020. <br />
-
+<br />
 CALERO PASTOR Maria, <i> A simplified energy performance assessment method supporting system design and fed by EU product policy data : application to heating systems in buildings </i>, Thèse de doctorat, Université Grenoble Alpes, Grenoble, 2018. <br />
-
+<br />
 Data.gouv, « La base des diagnostics de performance énergétique (DPE) », Paris, 2020, [En ligne].
 https://www.data.gouv.fr/fr/posts/la-base-des-diagnostics-de-performance-energetique-dpe/ <br />
   </div> 
