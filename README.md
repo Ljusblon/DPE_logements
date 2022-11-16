@@ -193,6 +193,10 @@ Les données de cette base de données sont accessibles sous différents formats
 <p align="center">
   <img width="945" height="100" src="./8_screen_SQL.png">
 </p>
+
+  <div align="center">
+Titre : Captures d'écran de la base de données importée sur Xampp.
+  </div>
  
 Nul besoin d’écrire tout ce code avec Xampp qui facilite grandement la création et l’import de base de données. 
 
