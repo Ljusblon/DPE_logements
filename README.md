@@ -38,7 +38,7 @@ La lecture du DPE est facilitée par deux étiquettes à sept classes. L’éche
 
   <div align="center">
 Titre : Échelle de performance énergétique et environnementale. <br />
-Source : AMIEL Martin, <em>Méthode pour une optimisation du diagnostic de performance énergétique via une approche instrumentée<em>, Université Savoie Mont Blanc, Chambéry, 2020, p. 24.
+Source : AMIEL Martin, Méthode pour une optimisation du diagnostic de performance énergétique via une approche instrumentée, Université Savoie Mont Blanc, Chambéry, 2020, p. 24.
   </div>
   
   <div align="justify">
@@ -192,7 +192,7 @@ Nul besoin d’écrire tout ce code avec Xampp qui facilite grandement la créat
 
   <div align="center">
 Titre : Diagnostic de performance énergétique pour les logements - Classe énergétique. <br />
-    Source : ADEME, <i>DPE Logements (avant juillet 2021)</i>, Paris, 2021, [En ligne]. <br />
+    Source : ADEME, DPE Logements (avant juillet 2021), Paris, 2021, [En ligne]. <br />
   </div>
 
   <div align="justify">
@@ -220,7 +220,7 @@ Titre : Animation du diagnostic de performance énergétique pour les logements 
 
   <div align="center">
 Titre : Diagnostic de performance énergétique pour les logements - Classe GES. <br />
-Source : Source : ADEME, <em>DPE Logements (avant juillet 2021)<em>, Paris, 2021, [En ligne]. <br />
+Source : Source : ADEME, DPE Logements (avant juillet 2021), Paris, 2021, [En ligne]. <br />
   </div>
   
   <div align="justify">
@@ -237,7 +237,7 @@ Les diagnostics de performance énergétique (DPE) sont transmis à l’ADEME à
 
   <div align="center">
 Titre : Diagnostics de performance énergétique pour les logements - Relation entre classes énergétiques et GES. <br />
-Source : https://data.ademe.fr/datasets/dpe-france
+Source : ADEME, DPE Logements (avant juillet 2021), Paris, 2021, [En ligne].
   </div>
   
   <div align="justify">
