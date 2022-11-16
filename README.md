@@ -38,7 +38,7 @@ La lecture du DPE est facilitée par deux étiquettes à sept classes. L’éche
 
   <div align="center">
 Titre : Échelle de performance énergétique et environnementale. <br />
-Source : AMIEL Martin, <i> Méthode pour une optimisation du diagnostic de performance énergétique via une approche instrumentée <i>, Université Savoie Mont Blanc, Chambéry, 2020, p. 24.
+Source : AMIEL Martin, <i>Méthode pour une optimisation du diagnostic de performance énergétique via une approche instrumentée<i>, Université Savoie Mont Blanc, Chambéry, 2020, p. 24.
   </div>
   
   <div align="justify">
