@@ -82,6 +82,7 @@ Le DPE doit être établi par un professionnel répondant des conditions de comp
   <div align="justify">
 L’article D134-4-2 du CCH a modifié la durée de validité des diagnostics de performance énergétique :
   </div>
+  
 - Les diagnostics réalisés à compter du 1er juillet 2021 seront valable dix ans ;
 - Ceux réalisés entre le 1er janvier 2013 et le 31 décembre 2017 sont valides jusqu'au 31 décembre 2022 ;
 - Et ceux réalisés entre le 1er janvier 2018 et le 30 juin 2021 jusqu'au 31 décembre 2024.
@@ -98,6 +99,7 @@ L’arrêté du 31 mars 2021 relatif au diagnostic de performance énergétique 
 La loi Énergie-Climat du 8 décembre 2019 vise à lutter contre la précarité énergétique et à limiter les émissions de CO2 de la France. L’objectif étant d’atteindre la neutralité carbone. Pour cela, la loi impose aux bailleurs de rénover certains logements énergivores, souvent nommés « passoires thermiques ». 
 Les propriétaires bailleurs ne peuvent pas être soumis à l’obligation de rénover leur logement du jour au lendemain. Pour éliminer les passoires thermiques, un calendrier a été mis en place :
   </div>
+  
 - En 2021, il n’est plus possible d’augmenter le loyer entre deux locataires si aucun chantier de rénovation thermique n’a été réalisé dans le logement.
 - En 2022, les propriétaires-bailleurs sont tenus de faire réaliser un audit énergétique de leur bien. Cet audit donnera lieu à des conseils en matière de rénovation thermique.
 - À partir de 2025, les propriétaires de logements énergivores consommant plus de 330 kW/m²/an seront tenus d'effectuer des travaux pour améliorer la performance énergétique globale du bâti. Car dès 2025, ces passoires thermiques seront non seulement régulées mais aussi interdites à la location, avec une obligation de « remise à niveau thermique », accompagnée d'un bilan énergétique.
