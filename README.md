@@ -206,9 +206,7 @@ Les diagnostics de performance énergétique sont transmis à l’ADEME à des f
   <source src="10_GIF_DPE.mp4" type="video/mp4">
 </video>
 
-  < !-- 
 https://user-images.githubusercontent.com/111519260/201638903-571ff5b1-651e-45b4-a8ec-50609354dfa9.mp4
-  -- >
     
   <div align="center">
 Titre : Animation du diagnostic de performance énergétique pour les logements entre 1900 et 2021. <br />
@@ -222,7 +220,7 @@ Titre : Animation du diagnostic de performance énergétique pour les logements 
 
   <div align="center">
 Titre : Diagnostic de performance énergétique pour les logements - Classe GES. <br />
-Source : Source : ADEME, <i>DPE Logements (avant juillet 2021)</i>, Paris, 2021, [En ligne]. <br />
+Source : Source : ADEME, <em>DPE Logements (avant juillet 2021)</em>, Paris, 2021, [En ligne]. <br />
   </div>
   
   <div align="justify">
