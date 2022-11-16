@@ -220,7 +220,7 @@ Titre : Animation du diagnostic de performance énergétique pour les logements 
 
   <div align="center">
 Titre : Diagnostic de performance énergétique pour les logements - Classe GES. <br />
-Source : Source : ADEME, <em>DPE Logements (avant juillet 2021)</em>, Paris, 2021, [En ligne]. <br />
+Source : Source : ADEME, <em>DPE Logements (avant juillet 2021)<em>, Paris, 2021, [En ligne]. <br />
   </div>
   
   <div align="justify">
