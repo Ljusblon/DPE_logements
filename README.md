@@ -200,6 +200,7 @@ Les données de cette base de données sont accessibles sous différents formats
 Titre : Captures d'écran de la base de données importée sur Xampp.
   </div>
  
+  <br />
 Nul besoin d’écrire tout ce code avec Xampp qui facilite grandement la création et l’import de base de données. 
 
 ## 2) Diagnostics de performance énergétique pour les logements - Classe énergétique
