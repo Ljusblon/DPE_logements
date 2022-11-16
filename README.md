@@ -347,7 +347,7 @@ Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité
    <div align="justify">
 ADEME,« DPE Logements (avant juillet 2021) », Paris, 2021, [En ligne].
 https://data.ademe.fr/datasets/dpe-france <br />
-
+<br />
 ADEME, « Publication des données de l’Observatoire DPE en OPEN DATA », Paris, 2021, [En ligne].
 https://observatoire-dpe.ademe.fr/articles/5d4179d6-9802-4d7c-91e1-4204897555b6 <br />
 
