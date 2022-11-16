@@ -339,4 +339,4 @@ La plupart des rénovations engagées sont uniquement fondées sur un simple dia
 Seulement, la méthode de calcul des PDE ne prend pas en compte l’ensemble des usages énergétique des bâtiments et les calculs de consommations comprennent nombre de valeurs forfaitaires ne permettant pas de retranscrire les usages, caractéristiques et l’environnement extérieur des bâtiments. <br />
 De fait, les préconisations de travaux et les économies d’énergie qui y sont associées ne peuvent pas être justes. En outre, même en essayant de caractériser le plus fidèlement possible un bâtiment avec son enveloppe, son environnement et ses usages, nombre d’incertitudes subsistent, dont une part demeure inconnue, à l’image de la dégradation de la performance thermique des matériaux dans le temps. <br />
 Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité des paramètres pris en compte, déjà mis en œuvre lors de la construction de nouveau bâtiment, devraient être mises en place dans le cadre des rénovation énergétiques. 
-   </div>
+   </div> 
