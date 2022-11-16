@@ -341,3 +341,25 @@ Seulement, la méthode de calcul des PDE ne prend pas en compte l’ensemble des
 De fait, les préconisations de travaux et les économies d’énergie qui y sont associées ne peuvent pas être justes. En outre, même en essayant de caractériser le plus fidèlement possible un bâtiment avec son enveloppe, son environnement et ses usages, nombre d’incertitudes subsistent, dont une part demeure inconnue, à l’image de la dégradation de la performance thermique des matériaux dans le temps. <br />
 Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité des paramètres pris en compte, déjà mis en œuvre lors de la construction de nouveau bâtiment, devraient être mises en place dans le cadre des rénovation énergétiques. 
    </div> 
+   
+# Bibliographie 
+   
+   <div align="justify">
+ADEME,« DPE Logements (avant juillet 2021) », Paris, 2021, [En ligne].
+https://data.ademe.fr/datasets/dpe-france
+
+ADEME, « Publication des données de l’Observatoire DPE en OPEN DATA », Paris, 2021, [En ligne].
+https://observatoire-dpe.ademe.fr/articles/5d4179d6-9802-4d7c-91e1-4204897555b6 
+
+ADEME, « DPE Logements (depuis juillet 2021) », Paris, 2022, [En ligne].
+https://data.ademe.fr/datasets/dpe-v2-logements-neufs 
+
+AMIEL Martin, <i> Méthode pour une optimisation du diagnostic de performance énergétique via une approche instrumentée </i>, Thèse de doctorat, Université Savoie Mont Blanc, Chambéry, 2020.
+
+CALERO PASTOR Maria, <i> A simplified energy performance assessment method supporting system design and fed by EU product policy data : application to heating systems in buildings </i>, Thèse de doctorat, Université Grenoble Alpes, Grenoble, 2018.
+
+Data.gouv, « La base des diagnostics de performance énergétique (DPE) », Paris, 2020, [En ligne].
+https://www.data.gouv.fr/fr/posts/la-base-des-diagnostics-de-performance-energetique-dpe/ 
+  </div> 
+
+
