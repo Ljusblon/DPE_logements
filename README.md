@@ -1,6 +1,10 @@
 # Base de données DPE Logements de l'ADEME - Vie sociale des données
 
-
+## Table des matières
+### I- Description de la base de données
+### II- Usages et usagers de la base de données
+### III - Échanges avec plusieurs usagers de la base de données au sein du LISIS
+### IV- Limites et perspectives de la base de données
 
 # I- Description de la base de données
 
@@ -317,8 +321,34 @@ Les différents travaux de valorisation des données se feraient au bénéfice d
 - Pour les acteurs publics qui souhaitent piloter leurs politiques publiques par la donnée : l'exploitation des données de la base DPE Logements permettrait de mieux caractériser le parc immobilier français, de favoriser le recours à certains modes de consommation, ou encore de d'identifier les zones d'habitat indigne. <br />
 - Pour les acteurs privés qui cherchent à développer des offres de services ou de produits relatifs à la rénovation des bâtiments : la valorisation des données permettrait de mieux cibler les besoins en fonction des territoires et des logements et affinerait l'offre proposée aux particuliers ou aux acteurs publics. <br />
 - Pour le milieu de la recherche ou pour les acteurs de la transition écologique qui souhaitent s'appuyer sur d'important volumes de données afin d'étudier les enjeux de la transition énergétique, en vue de proposer des axes d'améliorations qui s'appuient sur des éléments empiriques.
+   
+   
+# III - Échanges avec plusieurs usagers de la base de données au sein du LISIS
 
-# III- Limites et perspectives de la base de données
+  <div align="justify">
+Dans le cadre de ce travail, nous avons également eu la possibilité d’échanger avec de jeunes apprentis chercheurs du Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS) de l’Université Gustave Eiffel. Nos échanges ont principalement porté sur l’utilisation de cette base de données dans le cadre de leurs recherches sur les smart cities. <br />
+<br />
+  
+Sur la question des smart cities au cœur de leurs recherches, il en ressort qu’elle a pu susciter des méfiances et des défiances, notamment à cause des suspicions de surveillance. En réponse à cette défiance, un nouveau discours apparaît. Aussi, parle-t-on, désormais, de « villes des intelligences » plutôt que de « ville intelligente » et de « citoyen capteur » plutôt que de « consommateur capté ». Le numérique apparaît comme étant au service du citoyen. Pour autant, « il ne suffit pas d’affirmer le primat de l’humain sur la technologie pour faire de sa ville une smart city ». Il n’en reste pas moins que le développement du numérique offre la possibilité d’un changement de regard sur les villes. Les bases de données en open data permettent une « intelligibilité des usages ». <br />
+<br />
+  
+Sur la question de l’open data, ils montrent bien que le passage des centres urbains traditionnels aux smart cities a augmenté significativement la quantité de données disponibles et entrainé de nombreux changements dans la gouvernance des villes.
+Sans exemple encore très concret, « il est possible d’imaginer une application qui utilise l’Intelligence artificielle et l’open data pour produire des algorithmes à même de conseiller directement les citoyens sur leur consommation actuelle et future ». L’ADEME, notamment, accorde des budgets de plus grande ampleur au titre de « Programme d’investissements d’avenir » aux villes qui incluent le développement durable dans leur projet. <br />
+<br />
+  
+Nous leur avons également demandé comment était perçue la donnée dans le cadre de leur recherche. L’absence de réponse unique à cette question est révélatrice de la difficulté à définir ce qu’est une donnée. Alors que les sciences humaines et sociales, l’informatique ou le droit donnent des définitions différentes, ces catégories ne sont que très rarement mobilisées dans la réalité. « La donnée n’est jamais brute. » Elle est toujours étroitement associée à un ensemble de personnes, de pratiques, de technologies, d’institutions. Loin d’être des entités immatérielles et neutres, il s’avère qu’elles sont, avant tout, constituées d’attachements. Elles sont attachées à des métiers, des systèmes d’information, des modèles économiques et des cultures. <br />
+<br />
+  
+Ces apprentis chercheurs montrent bien qu’au-delà de la question du diagnostic de performance énergétique et des questions de rénovation thermique qu’induit cette base de données, elle est aussi et surtout une source à même de permettre le développement de toute une série d’initiatives, de « civic tech, permettant la « désintermédiation et de nouvelles formes d’engagement ». Ces outils et ces applications favorisent ainsi « l’empowerment des citoyens ». <br />
+Ils pointent néanmoins le fait que les institutions publiques produisent et diffusent une manne de données en amont, mais se retrouvent bien souvent tributaires du bon vouloir des sociétés privées, qui exploitent ces mêmes données, en aval. <br />
+Cette base DPE Logements est pourtant à même d’aider le débat public qui est d’autant plus passionné sur les questions de rénovation thermique. Ces données permettent d’aider tant les élus, que les chercheurs ainsi que l’ensemble des acteurs publics, qui disposent désormais de données à même de les accompagner pour mieux définir les enjeux à venir et le caractère urgent de cette partie de la transition. « Cette question impacte les usagers au quotidien. » <br />
+<br />
+
+
+À travers ces entretiens, nous ne tenions pas tant à avoir des réponses et des solutions aussi fonctionnelles soient-elles, mais bien à faire émerger un discours sur la précarité énergétique des foyers français, en vue d’accroître la matérialité de ce phénomène et de participer à l’élaboration d’une « vision organisante » de cette question. <br />
+  </div>
+
+# IV- Limites et perspectives de la base de données
 
 ## 1) La non-représentativité des données et leur qualité
 
@@ -343,36 +373,6 @@ Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité
    </div> 
    
    
-# IV - Échanges avec plusieurs usagers de la base de données au sein du LISIS : 
-
-  <div align="justify">
-Dans le cadre de ce travail, nous avons également eu la possibilité d’échanger avec de jeunes apprentis chercheurs du Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS) de l’Université Gustave Eiffel. Nos échanges ont principalement porté sur l’utilisation de cette base de données dans le cadre de leurs recherches sur les smart cities. <br />
-  </div>
-
-  <div align="justify">
-Sur la question des smart cities au cœur de leurs recherches, il en ressort qu’elle a pu susciter des méfiances et des défiances, notamment à cause des suspicions de surveillance. En réponse à cette défiance, un nouveau discours apparaît. Aussi, parle-t-on, désormais, de « villes des intelligences » plutôt que de « ville intelligente » et de « citoyen capteur » plutôt que de « consommateur capté ». Le numérique apparaît comme étant au service du citoyen. Pour autant, « il ne suffit pas d’affirmer le primat de l’humain sur la technologie pour faire de sa ville une smart city ». Il n’en reste pas moins que le développement du numérique offre la possibilité d’un changement de regard sur les villes. Les bases de données en open data permettent une « intelligibilité des usages ». <br />
-  </div>
-
-  <div align="justify">
-Sur la question de l’open data, ils montrent bien que le passage des centres urbains traditionnels aux smart cities a augmenté significativement la quantité de données disponibles et entrainé de nombreux changements dans la gouvernance des villes.
-Sans exemple encore très concret, « il est possible d’imaginer une application qui utilise l’Intelligence artificielle et l’open data pour produire des algorithmes à même de conseiller directement les citoyens sur leur consommation actuelle et future ». L’ADEME, notamment, accorde des budgets de plus grande ampleur au titre de « Programme d’investissements d’avenir » aux villes qui incluent le développement durable dans leur projet. <br />
-  </div>
-
-  <div align="justify">
-Nous leur avons également demandé comment était perçue la donnée dans le cadre de leur recherche. L’absence de réponse unique à cette question est révélatrice de la difficulté à définir ce qu’est une donnée. Alors que les sciences humaines et sociales, l’informatique ou le droit donnent des définitions différentes, ces catégories ne sont que très rarement mobilisées dans la réalité. « La donnée n’est jamais brute. » Elle est toujours étroitement associée à un ensemble de personnes, de pratiques, de technologies, d’institutions. Loin d’être des entités immatérielles et neutres, il s’avère qu’elles sont, avant tout, constituées d’attachements. Elles sont attachées à des métiers, des systèmes d’information, des modèles économiques et des cultures. <br />
-  </div>
-
-  <div align="justify">
-Ces apprentis chercheurs montrent bien qu’au-delà de la question du diagnostic de performance énergétique et des questions de rénovation thermique qu’induit cette base de données, elle est aussi et surtout une source à même de permettre le développement de toute une série d’initiatives, de « civic tech, permettant la « désintermédiation et de nouvelles formes d’engagement ». Ces outils et ces applications favorisent ainsi « l’empowerment des citoyens ». <br />
-Ils pointent néanmoins le fait que les institutions publiques produisent et diffusent une manne de données en amont, mais se retrouvent bien souvent tributaires du bon vouloir des sociétés privées, qui exploitent ces mêmes données, en aval. <br />
-Cette base DPE Logements est pourtant à même d’aider le débat public qui est d’autant plus passionné sur les questions de rénovation thermique. Ces données permettent d’aider tant les élus, que les chercheurs ainsi que l’ensemble des acteurs publics, qui disposent désormais de données à même de les accompagner pour mieux définir les enjeux à venir et le caractère urgent de cette partie de la transition. « Cette question impacte les usagers au quotidien. » <br />
-  </div>
-
-  <div align="justify">
-À travers ces entretiens, nous ne tenions pas tant à avoir des réponses et des solutions aussi fonctionnelles soient-elles, mais bien à faire émerger un discours sur la précarité énergétique des foyers français, en vue d’accroître la matérialité de ce phénomène et de participer à l’élaboration d’une « vision organisante » de cette question. <br />
-  </div>
-
- 
 # Bibliographie 
    
    <div align="justify">
