@@ -391,7 +391,7 @@ CALERO PASTOR Maria, <i> A simplified energy performance assessment method suppo
 <br />
 COURMONT Antoine, <i> Politiques des données urbaines : ce que l’open data fait au gouvernement urbain </i>, thèse de doctorat, Sciences Po, Paris, 2016.<br />
 <br />
-Data.gouv, « La base des diagnostics de performance énergétique (DPE) », Paris, 2020, [En ligne].
+DATA.GOUV, « La base des diagnostics de performance énergétique (DPE) », Paris, 2020, [En ligne].
 https://www.data.gouv.fr/fr/posts/la-base-des-diagnostics-de-performance-energetique-dpe/ <br />
   </div> 
 
