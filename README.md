@@ -394,6 +394,7 @@ La classe A ne présente pas de réelles disparités, si ce n’est que les dern
 </p>
   <div align="center">
 Titre : Carte présentant les logements ayant un DPE de classe C. <br />
+  <br />
   </div>
 
 
@@ -406,6 +407,7 @@ A l’image de ce que nous avons pu souligner précédemment pour l’ensemble d
 </p>
   <div align="center">
 Titre : Carte présentant les logements ayant un DPE de classe E.<br />
+  <br />
   </div>
 
    <div align="justify">
@@ -418,6 +420,7 @@ Plus d’un tiers du parc immobilier présente un DPE entre F et G, sachant éga
 </p>
   <div align="center">
 Titre : Carte présentant les logements ayant un DPE de classe F. <br />
+  <br />
   </div>
 
 
