@@ -404,8 +404,25 @@ Les classes G et plus encore H ne présentent pas suffisamment de données pour 
 <br />
 
 In fine, ramené au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons. <br />
+<br />
    </div> 
-   
+
+
+ <div align="justify">
+À titre de comparaison, il apparaît que la récente carte publiée sur la consommation énergétique des logements à Paris n’est pas directement corrélée avec le DPE des mêmes logements. <br />
+  </div> 
+
+<p align="center">
+  <img width="714" height="829" src="./16_consommation_quartier_Paris.png">
+</p>
+  <div align="center">
+Titre : Carte présentant la consommation énergétique de chaque quartier à Paris. <br />
+  <br />
+  </div>
+
+   <div align="justify">
+En effet, selon les chiffres de l’Apur, la consommation annuelle de gaz, d’électricité et de chauffage urbain par habitant et par an en 2020, est jusqu’à cinq fois plus élevée dans les quartiers les plus aisés de l’ouest parisien, en comparaison avec certains quartiers plus populaires du nord-est de la capitale. Pour autant, dans les 8e et 16e arrondissement, la part des logements classés E, F ou G n’en reste pas moins supérieure à 50 %. Aussi, les dépenses énergétiques sont avant tout liées aux revenus du foyer fiscal, plutôt qu’au DPE du logement, indépendamment de la classe énergétique.   <br />
+  </div> 
    
    
 
@@ -433,21 +450,7 @@ De fait, les préconisations de travaux et les économies d’énergie qui y son
 Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité des paramètres pris en compte, déjà mis en œuvre lors de la construction de nouveau bâtiment, devraient être mises en place dans le cadre des rénovation énergétiques. <br />
    </div> 
    
-   <div align="justify">
-À titre de comparaison, il apparaît que la récente carte publiée sur la consommation énergétique des logements à Paris n’est pas directement corrélée avec le DPE des mêmes logements. <br />
-  </div> 
-
-<p align="center">
-  <img width="1190" height="1381" src="./16_consommation_quartier_Paris.png">
-</p>
-  <div align="center">
-Titre : Carte présentant la consommation énergétique de chaque quartier à Paris. <br />
-  <br />
-  </div>
-
-   <div align="justify">
-En effet, selon les chiffres de l’Apur, la consommation annuelle de gaz, d’électricité et de chauffage urbain par habitant et par an en 2020, est jusqu’à cinq fois plus élevée dans les quartiers les plus aisés de l’ouest parisien, en comparaison avec certains quartiers plus populaires du nord-est de la capitale. Pour autant, dans les 8e et 16e arrondissement, la part des logements classés E, F ou G n’en reste pas moins supérieure à 50 %. Aussi, les dépenses énergétiques sont avant tout liées aux revenus du foyer fiscal, plutôt qu’au DPE du logement, indépendamment de la classe énergétique.   <br />
-  </div> 
+ 
 
 
 # Bibliographie 
