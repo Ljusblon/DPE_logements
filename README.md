@@ -392,6 +392,10 @@ La classe A ne présente pas de réelles disparités, si ce n’est que les dern
 <p align="center">
   <img width="784" height="557" src="./13_classeC.png">
 </p>
+  <div align="center">
+Titre : Carte présentant les logements ayant un DPE de classe C.
+  </div>
+
 
    <div align="justify">
 A l’image de ce que nous avons pu souligner précédemment pour l’ensemble du territoire français métropolitain, la majorité des DPE sont de classes D et E, ne marquant pas de différences majeures entre les arrondissements de Paris, si ce n’est peut-être un léger contraste entre les précédents arrondissements cités. La majorité du parc immobilier de la capitale se trouve entre ces deux classes, certains travaux allant jusqu’à considérer qu’elles représentent 70 % du parc. <br />
@@ -400,6 +404,9 @@ A l’image de ce que nous avons pu souligner précédemment pour l’ensemble d
 <p align="center">
   <img width="784" height="557" src="./14_classeE.png">
 </p>
+  <div align="center">
+Titre : Carte présentant les logements ayant un DPE de classe E.
+  </div>
 
    <div align="justify">
 La classe F laisse poindre de nouvelles disparités à la défaveur des 10e, 11e, 17e et 18e 
@@ -409,6 +416,10 @@ Plus d’un tiers du parc immobilier présente un DPE entre F et G, sachant éga
 <p align="center">
   <img width="784" height="557" src="./15_classeF.png">
 </p>
+  <div align="center">
+Titre : Carte présentant les logements ayant un DPE de classe F.
+  </div>
+
 
    <div align="justify">
 Les classes G et plus encore H ne présentent pas suffisamment de données pour souligner d’éventuels contrastes, si ce n’est que les logements qui présentent le plus de DPE avec la classe G se situent dans le Nord de Paris, principalement entre le 17 et le 18e arrondissement. <br />
