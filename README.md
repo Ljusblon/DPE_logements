@@ -378,13 +378,10 @@ Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité
    <div align="justify">
 Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. 
 La démarche fondamentale de cette étude de cas consiste à rechercher des contrastes entre les classes énergétiques et/ou entre les arrondissements de la ville. <br />
-<br />
 
 La classe A ne présente pas de réelles disparités, si ce n’est que les derniers logements construits dans le nord et le nord-ouest de Paris présentent quelques points d’exception où les logements sont bien isolés, eu égards à leur date de construction. <br />
-<br />
 
 À l’instar de la classe précédente, la classe B ne présente pas de réel contraste et les données disponibles demeurent trop éparsent pour conclure à de réelles disparités entre les arrondissements.  <br />
-<br />
 
 À l’inverse de la classe précédente, la classe C dispose de nombreuses données, permettant de constater un premier contraste entre les 17e, 18e, 9e, 10e et 11e arrondissement par opposition aux 5e, 6e, et 7e. Reste à établir, si les trois derniers arrondissements présentent de meilleurs diagnostics. Question à laquelle nous pouvons d’emblée répondre par la négative au regard des cartes suivantes. <br />
    </div> 
