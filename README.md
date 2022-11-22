@@ -373,6 +373,50 @@ De fait, les préconisations de travaux et les économies d’énergie qui y son
 Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité des paramètres pris en compte, déjà mis en œuvre lors de la construction de nouveau bâtiment, devraient être mises en place dans le cadre des rénovation énergétiques. 
    </div> 
    
+# Analyse descriptive : Les DPE au sein de la ville de Paris
+
+   <div align="justify">
+Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. 
+La démarche fondamentale de cette étude de cas consiste à rechercher des contrastes entre les classes énergétiques et/ou entre les arrondissements de la ville. <br />
+<br />
+
+La classe A ne présente pas de réelles disparités, si ce n’est que les derniers logements construits dans le nord et le nord-ouest de Paris présentent quelques points d’exception où les logements sont bien isolés, eu égards à leur date de construction. <br />
+<br />
+
+À l’instar de la classe précédente, la classe B ne présente pas de réel contraste et les données disponibles demeurent trop éparsent pour conclure à de réelles disparités entre les arrondissements.  <br />
+<br />
+
+À l’inverse de la classe précédente, la classe C dispose de nombreuses données, permettant de constater un premier contraste entre les 17e, 18e, 9e, 10e et 11e arrondissement par opposition aux 5e, 6e, et 7e. Reste à établir, si les trois derniers arrondissements présentent de meilleurs diagnostics. Question à laquelle nous pouvons d’emblée répondre par la négative au regard des cartes suivantes. <br />
+   </div> 
+
+<p align="center">
+  <img width="3508" height="2480" src="./13_classeC.png">
+</p>
+
+   <div align="justify">
+A l’image de ce que nous avons pu souligner précédemment pour l’ensemble du territoire français métropolitain, la majorité des DPE sont de classes D et E, ne marquant pas de différences majeures entre les arrondissements de Paris, si ce n’est peut-être un léger contraste entre les précédents arrondissements cités. La majorité du parc immobilier de la capitale se trouve entre ces deux classes, certains travaux allant jusqu’à considérer qu’elles représentent 70 % du parc. <br />
+   </div> 
+
+<p align="center">
+  <img width="3508" height="2480" src="./14_classeE.png">
+</p>
+
+   <div align="justify">
+La classe F laisse poindre de nouvelles disparités à la défaveur des 10e, 11e, 17e et 18e 
+Plus d’un tiers du parc immobilier présente un DPE entre F et G, sachant également que plus d’un tiers des logements de la capitale ont été construits avant 1919. Seulement, aucune recherche n’établit de lien direct entre un diagnostic défavorable et la date de construction des logements. En outre, près de 60 % des logements ont été construits entre 1919 et 1990, dont une part significative présente un DPE entre D et G. <br />
+   </div> 
+
+<p align="center">
+  <img width="3508" height="2480" src="./15_classeF.png">
+</p>
+
+   <div align="justify">
+Les classes G et plus encore H ne présentent pas suffisamment de données pour souligner d’éventuels contrastes, si ce n’est que les logements qui présentent le plus de DPE avec la classe G se situent dans le Nord de Paris, principalement entre le 17 et le 18e arrondissement. <br />
+<br />
+
+In fine, ramené au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons. <br />
+   </div> 
+
    
 # Bibliographie 
    
