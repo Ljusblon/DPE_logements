@@ -390,7 +390,7 @@ La classe A ne présente pas de réelles disparités, si ce n’est que les dern
    </div> 
 
 <p align="center">
-  <img width="3508" height="2480" src="./13_classeC.png">
+  <img width="784" height="557" src="./13_classeC.png">
 </p>
 
    <div align="justify">
@@ -398,7 +398,7 @@ A l’image de ce que nous avons pu souligner précédemment pour l’ensemble d
    </div> 
 
 <p align="center">
-  <img width="3508" height="2480" src="./14_classeE.png">
+  <img width="784" height="557" src="./14_classeE.png">
 </p>
 
    <div align="justify">
@@ -407,7 +407,7 @@ Plus d’un tiers du parc immobilier présente un DPE entre F et G, sachant éga
    </div> 
 
 <p align="center">
-  <img width="490" height="348" src="./15_classeF.png">
+  <img width="784" height="557" src="./15_classeF.png">
 </p>
 
    <div align="justify">
