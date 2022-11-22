@@ -354,7 +354,7 @@ Cette base DPE Logements est pourtant à même d’aider le débat public qui es
 # IV- Analyse descriptive : Les DPE au sein de la ville de Paris
 
    <div align="justify">
-Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. 
+Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. Ramené au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons. <br />
 La démarche fondamentale de cette étude de cas consiste à rechercher des contrastes entre les classes énergétiques et/ou entre les arrondissements de la ville. <br />
 <br />
 La classe A ne présente pas de réelles disparités, si ce n’est que les derniers logements construits dans le nord et le nord-ouest de Paris présentent quelques points d’exception où les logements sont bien isolés, eu égards à leur date de construction. <br />
@@ -402,8 +402,6 @@ Titre : Carte présentant les logements ayant un DPE de classe F. <br />
    <div align="justify">
 Les classes G et plus encore H ne présentent pas suffisamment de données pour souligner d’éventuels contrastes, si ce n’est que les logements qui présentent le plus de DPE avec la classe G se situent dans le Nord de Paris, principalement entre le 17 et le 18e arrondissement. <br />
 <br />
-
-In fine, ramené au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons. <br />
 <br />
    </div> 
 
