@@ -57,12 +57,12 @@ Elle permet aussi aux pouvoirs publics, tant les administrations, que collectivi
 ### c) Calculs et indicateurs du DPE
 
   <div align="justify">
-Le calcul du DPE s'effectue à partir d'une série de critères correspondant aux caractéristiques physiques du logement ou du bâtiment tels que la surface au sol, la surface vitrée, la nature des matériaux de construction ou le type d'isolation, etc, et au type d'énergie utilisé pour le chauffage et l'eau chaude sanitaire.
+Le calcul du DPE s'effectue à partir d'une série de critères correspondant aux caractéristiques physiques du logement ou du bâtiment tels que la surface au sol, la surface vitrée, la nature des matériaux de construction ou le type d'isolation, et au type d'énergie utilisé pour le chauffage et l'eau chaude sanitaire.
 Ce calcul permet d'établir une consommation énergétique en kilowattheure par mètre carré et par an pour l’étiquette énergie, qui permet de déterminer le nombre de kilos d'équivalent CO2 émis par mètre carré et par an par le logement concerné, pour l’étiquette climat.
   </div>
 
 La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en trois catégories :
--	Les informations clef du DPE : données concernant les étiquettes énergie et émissions de gaz à effet de serre du logement. Ces données correspondent aux indicateurs suivants :
+-	Les informations clefs du DPE : données concernant les étiquettes énergie et émissions de gaz à effet de serre du logement. Ces données correspondent aux indicateurs suivants :
   >> - La consommation énergie en kWhEP/m².an ;
   >> -	Le classement consommation d'énergie ;
   >> -	L’estimation d'émission de GES en Kg eqCO2/m².an ;
@@ -80,7 +80,7 @@ La base DPE comporte de nombreux indicateurs. Ces derniers se décomposent en tr
 ### a) Cadre réglementaire - DPE
 
   <div align="justify">
-Le DPE doit être établi par un professionnel répondant des conditions de compétences, d’assurance, d’organisation et de moyens mais également d’indépendance et d’impartialité conformément aux dispositions de l’article L.271-6 du CCH.  
+Légalement, il ressort que le DPE doit être établi par un professionnel répondant des conditions de compétences, d’assurance, d’organisation et de moyens, mais également d’indépendance et d’impartialité conformément aux dispositions de l’article L.271-6 du CCH.  
   </div>
   
   <div align="justify">
@@ -222,7 +222,7 @@ Titre : Diagnostic de performance énergétique pour les logements - Classe éne
   <br />
 Cette carte présente les DPE des logements en fonction de leur classe énergétique.
 Les diagnostics de performance énergétique sont transmis à l’ADEME à des fins d'études statistiques, d'évaluation et d'amélioration méthodologique en vertu de l’article L134-4-2 du code de la construction et de l’habitation.
-À Partir de cette carte interactive, nous avons pu générer un gif permettant de voir l’évolution des DPE. Cette animation a été réalisé à partir de 18 images prises à intervalle régulier entre 6 et 7 ans pour les logements construits entre 1900 et 2021.
+À partir de cette carte interactive, nous avons pu générer un gif permettant de voir l’évolution des DPE. Cette animation a été réalisé à partir de 18 images prises à intervalle régulier entre six et sept ans pour les logements construits entre 1900 et 2021.
    </div>
 
 <video autoplay loop muted playsinline>
@@ -293,7 +293,7 @@ Le projet IMOPE repose sur une plateforme cartographique permettant de regrouper
 ### d) Le projet Mon Coach Renov
 
    <div align="justify">
-Le projet Mon Coach Renov correspond à une démarche d’accompagnement à la rénovation énergétique des logements, qui croise les données de consommations avec les caractéristiques du logement pour identifier les surconsommations et proposer des travaux en conséquence. Il aussi facilite l’accès à l’information fiable sur la rénovation telle que les coûts des travaux ou les aides disponibles.
+Le projet Mon Coach Renov correspond à une démarche d’accompagnement à la rénovation énergétique des logements, qui croise les données de consommations avec les caractéristiques du logement pour identifier les surconsommations et proposer des travaux en conséquence. Il facilite aussi l’accès à l’information fiable sur la rénovation telle que les coûts des travaux ou les aides disponibles.
    </div>
 
 ### d) Le projet Carto Reno
@@ -311,7 +311,7 @@ Le projet Rénover pour tous est un dispositif proposant un nouveau mécanisme d
 ### f) D'autres usages potentiels
 
   <div align="justify">
-La base DPE constitue outil clé des politiques de rénovations énergétiques tant au niveau local que national. La mise à disposition de cette base en open data ouvre la porte à de nombreux usages. Il est dès lors possible de visualiser sur le portail open data de l'ADEME la répartition géographique des classes DPE énergies et gaz à effet de serre. Ces premiers traitements sur la base de données laissent entrevoir les usages attendus d'une exploitation plus précise des données :
+La base DPE constitue un outil clef des politiques de rénovations énergétiques tant au niveau local que national. La mise à disposition de cette base en open data ouvre la porte à de nombreux usages. Il est dès lors possible de visualiser sur le portail open data de l'ADEME la répartition géographique des classes DPE énergies et gaz à effet de serre. Ces premiers traitements sur la base de données laissent entrevoir les usages attendus d'une exploitation plus précise des données :
   </div>
      
 - « Le croisement de la base DPE avec des données de travaux afin d'estimer l'impact de ces derniers sur la consommation d'énergie » ;
@@ -319,9 +319,9 @@ La base DPE constitue outil clé des politiques de rénovations énergétiques t
 - « Le croisement des données DPE avec les données d'ancienneté du parc de logements, afin de comprendre la corrélation entre ancienneté des logements et consommation énergétique et d'établir des zonages de bâtis à rénover. »
 
 Les différents travaux de valorisation des données se feraient au bénéfice de nombreux acteurs :
-- Pour les acteurs publics qui souhaitent piloter leurs politiques publiques par la donnée : l'exploitation des données de la base DPE Logements permettrait de mieux caractériser le parc immobilier français, de favoriser le recours à certains modes de consommation, ou encore de d'identifier les zones d'habitat indigne. <br />
+- Pour les acteurs publics qui souhaitent piloter leurs politiques publiques par la donnée : l'exploitation des données de la base DPE Logements permettrait de mieux caractériser le parc immobilier français, de favoriser le recours à certains modes de consommation, ou encore d'identifier les zones d'habitat indigne. <br />
 - Pour les acteurs privés qui cherchent à développer des offres de services ou de produits relatifs à la rénovation des bâtiments : la valorisation des données permettrait de mieux cibler les besoins en fonction des territoires et des logements et affinerait l'offre proposée aux particuliers ou aux acteurs publics. <br />
-- Pour le milieu de la recherche ou pour les acteurs de la transition écologique qui souhaitent s'appuyer sur d'important volumes de données afin d'étudier les enjeux de la transition énergétique, en vue de proposer des axes d'améliorations qui s'appuient sur des éléments empiriques.
+- Pour le milieu de la recherche et/ou pour les acteurs de la transition écologique qui souhaitent s'appuyer sur d'importants volumes de données afin d'étudier les enjeux de la transition énergétique, en vue de proposer des axes d'améliorations qui s'appuient sur des éléments empiriques.
    
    
 # III - Échanges avec plusieurs usagers de la base de données au sein du LISIS
