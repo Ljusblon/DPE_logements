@@ -413,7 +413,7 @@ In fine, ramené au nombre de logements, deux arrondissements se distinguent : l
   </div> 
 
 <p align="center">
-  <img width="714" height="829" src="./16_consommation_quartier_Paris.png">
+  <img width="607" height="688" src="./16_consommation_quartier_Paris.png">
 </p>
   <div align="center">
 Titre : Carte présentant la consommation énergétique de chaque quartier à Paris. <br />
