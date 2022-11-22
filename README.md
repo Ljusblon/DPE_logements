@@ -407,7 +407,7 @@ Plus d’un tiers du parc immobilier présente un DPE entre F et G, sachant éga
    </div> 
 
 <p align="center">
-  <img width="3508" height="2480" src="./15_classeF.png">
+  <img width="350" height="248" src="./15_classeF.png">
 </p>
 
    <div align="justify">
