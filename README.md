@@ -360,7 +360,7 @@ La classe A ne présente pas de réelles disparités, si ce n’est que les dern
 
 À l’instar de la classe précédente, la classe B ne présente pas de réel contraste non plus et les données disponibles demeurent trop éparsent pour conclure à de réelles disparités entre les arrondissements.  <br />
 
-À l’inverse de la classe précédente, la classe C dispose de nombreuses données, permettant de constater un premier contraste entre les 17e, 18e, 9e, 10e et 11e arrondissement par opposition aux 5e, 6e, et 7e. Reste à établir, si les trois derniers arrondissements présentent de meilleurs diagnostics. Question à laquelle nous pouvons d’emblée répondre par la négative au regard des cartes suivantes. Il convient d'ajouter que ramenés au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons.<br />
+À l’inverse de la classe précédente, la classe C dispose de nombreuses données, permettant de constater un premier contraste entre les 17e, 18e, 9e, 10e et 11e arrondissements par opposition aux 5e, 6e, et 7e. Reste à établir, si les trois derniers arrondissements présentent de meilleurs diagnostics. Question à laquelle nous pouvons d’emblée répondre par la négative au regard des cartes suivantes. Il convient d'ajouter que ramenés au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons.<br />
    </div> 
 
 <p align="center">
