@@ -1,7 +1,7 @@
 # Base de données DPE Logements de l'ADEME - Vie sociale des données
 
 ## Table des matières
-### I- Description de la base de données
+### [I- Description de la base de données] (#I-Description de la base de données)
 ### II- Usages et usagers de la base de données
 ### III - Échanges avec plusieurs usagers de la base de données au sein du LISIS
 ### IV- Analyse descriptive : Les DPE au sein de la ville de Paris
@@ -354,7 +354,7 @@ Cette base DPE Logements est pourtant à même d’aider le débat public qui es
 # IV- Analyse descriptive : Les DPE au sein de la ville de Paris
 
    <div align="justify">
-Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. Ramené au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons. <br />
+Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles, plus de 5 millions de lignes, qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. Ramené au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons. <br />
 La démarche fondamentale de cette étude de cas consiste à rechercher des contrastes entre les classes énergétiques et/ou entre les arrondissements de la ville. <br />
 <br />
 La classe A ne présente pas de réelles disparités, si ce n’est que les derniers logements construits dans le nord et le nord-ouest de Paris présentent quelques points d’exception où les logements sont bien isolés, eu égards à leur date de construction. <br />
