@@ -1,5 +1,7 @@
 # Base de données DPE Logements de l'ADEME - Vie sociale des données
 
+Par Anatole Lemaire, Ilona Vileyn-Salah, Valentine Duffait, Benjamin Saudreau, Leila Kchouk
+
 ## Table des matières
 ### I- Description de la base de données
 ### II- Usages et usagers de la base de données
@@ -470,5 +472,8 @@ COURMONT Antoine, <i> Politiques des données urbaines : ce que l’open data fa
 DATA.GOUV, « La base des diagnostics de performance énergétique (DPE) », Paris, 2020, [En ligne].
 https://www.data.gouv.fr/fr/posts/la-base-des-diagnostics-de-performance-energetique-dpe/ <br />
   </div> 
+
+
+
 
 
