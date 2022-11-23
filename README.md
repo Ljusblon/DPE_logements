@@ -1,7 +1,7 @@
 # Base de données DPE Logements de l'ADEME - Vie sociale des données
 
 ## Table des matières
-### [I- Description de la base de données] (#I-Description de la base de données)
+### I- Description de la base de données
 ### II- Usages et usagers de la base de données
 ### III - Échanges avec plusieurs usagers de la base de données au sein du LISIS
 ### IV- Analyse descriptive : Les DPE au sein de la ville de Paris
