@@ -355,7 +355,7 @@ Enfin, sur la question de la définition des smart cities au cœur de leurs rech
 # IV- Analyse descriptive : Les DPE au sein de la ville de Paris
 
    <div align="justify">
-Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles, plus de 5 millions de lignes, qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. <br />
+Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles, plus de 5 millions de lignes, qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. Nous avons réalisé les trois cartes suivante avec le logiciel SIG open source Qgis. <br />
 La démarche fondamentale de cette étude de cas consiste à rechercher des contrastes entre les classes énergétiques et/ou entre les arrondissements de la ville. <br />
 <br />
 La classe A ne présente pas de réelles disparités, si ce n’est que les derniers logements construits dans le nord et le nord-ouest de Paris présentent quelques points d’exception où les logements sont bien isolés, eu égard à leur date de construction. <br />
