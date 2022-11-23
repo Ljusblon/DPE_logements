@@ -206,7 +206,7 @@ Titre : Captures d'écran de la base de données importée sur Xampp.
   </div>
  
   <br />
-Nul besoin d’écrire tout ce code avec Xampp qui facilite grandement la création et l’import de base de données. 
+Nul besoin d’écrire tout ce code avec Xampp qui facilite grandement la création et l’import de base de données. Nous avons vu exploiter cette base de données à partir de l’export en SQL, pour générer les informations précédentes et plusieurs des graphiques suivants, à l’exception des trois cartes déjà présentées par l’ADEME. 
 
 ## 2) Diagnostics de performance énergétique pour les logements - Classe énergétique
 
@@ -331,9 +331,6 @@ Les différents travaux de valorisation des données se feraient au bénéfice d
 Dans le cadre de ce travail, nous avons également eu la possibilité d’échanger avec de jeunes apprentis chercheurs du Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS) de l’Université Gustave Eiffel. Nos échanges ont principalement porté sur l’utilisation de cette base de données dans le cadre de leurs recherches sur les smart cities. <br />
 <br />
   
-Sur la question des smart cities au cœur de leurs recherches, il en ressort qu’elle a pu susciter des méfiances et des défiances, notamment à cause des suspicions de surveillance. En réponse à cette défiance, un nouveau discours apparaît. Aussi, parle-t-on, désormais, de « villes des intelligences » plutôt que de « ville intelligente » et de « citoyen capteur » plutôt que de « consommateur capté ». Le numérique apparaît comme étant au service du citoyen. Pour autant, « il ne suffit pas d’affirmer le primat de l’humain sur la technologie pour faire de sa ville une smart city ». Il n’en reste pas moins que le développement du numérique offre la possibilité d’un changement de regard sur les villes. Les bases de données en open data permettent une « intelligibilité des usages ». <br />
-<br />
-  
 Sur la question de l’open data, ils montrent bien que le passage des centres urbains traditionnels aux smart cities a augmenté significativement la quantité de données disponibles et entrainé de nombreux changements dans la gouvernance des villes.
 Sans exemple encore très concret, « il est possible d’imaginer une application qui utilise l’Intelligence artificielle et l’open data pour produire des algorithmes à même de conseiller directement les citoyens sur leur consommation actuelle et future ». L’ADEME, notamment, accorde des budgets de plus grande ampleur au titre de « Programme d’investissements d’avenir » aux villes qui incluent le développement durable dans leur projet. <br />
 <br />
@@ -346,22 +343,24 @@ Ils pointent néanmoins le fait que les institutions publiques produisent et dif
 Cette base DPE Logements est pourtant à même d’aider le débat public qui est d’autant plus passionné sur les questions de rénovation thermique. Ces données permettent d’aider tant les élus, que les chercheurs ainsi que l’ensemble des acteurs publics, qui disposent désormais de données à même de les accompagner pour mieux définir les enjeux à venir et le caractère urgent de cette partie de la transition. « Cette question impacte les usagers au quotidien. » <br />
 <br />
 
+Enfin, sur la question de la définition des smart cities au cœur de leurs recherches, il en ressort qu’elle a pu susciter des méfiances et des défiances, notamment à cause des suspicions de surveillance. En réponse à cette défiance, un nouveau discours apparaît. Aussi, parle-t-on, désormais, de « villes des intelligences » plutôt que de « ville intelligente » et de « citoyen capteur » plutôt que de « consommateur capté ». Le numérique apparaît comme étant au service du citoyen. Pour autant, « il ne suffit pas d’affirmer le primat de l’humain sur la technologie pour faire de sa ville une smart city ». Il n’en reste pas moins que le développement du numérique offre la possibilité d’un changement de regard sur les villes. Les bases de données en open data permettent une « intelligibilité des usages ». <br />
+<br />
 
-À travers ces entretiens, nous ne tenions pas tant à avoir des réponses et des solutions aussi fonctionnelles soient-elles, mais bien à faire émerger un discours sur la précarité énergétique des foyers français, en vue d’accroître la matérialité de ce phénomène et de participer à l’élaboration d’une « vision organisante » de cette question. <br />
+À travers ces entretiens, nous ne tenions pas tant à avoir des réponses et des solutions aussi fonctionnelles soient-elles pour exploiter les données de la base DPE Logements, mais bien à faire émerger un discours sur la précarité énergétique des foyers français, en vue d’accroître la matérialité de ce phénomène et de participer à l’élaboration d’une « vision organisante » de cette question. La question de la précarité énergétique est au cœur de leurs travaux sur les smart cities, en vue d'améliorer la distribution et la consommation d'énergie au sein des villes et de chaque foyer. <br />
   </div>
   
   
 # IV- Analyse descriptive : Les DPE au sein de la ville de Paris
 
    <div align="justify">
-Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles, plus de 5 millions de lignes, qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. Ramené au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons. <br />
+Nous tenions également à exploiter plus en amont la base de données. Compte tenu des millions de données disponibles, plus de 5 millions de lignes, qui compliquent largement l’exploitation et l’analyse des données, nous nous sommes concentrés sur Paris, étant l’une des villes les plus documentée dans la base DPE Logements. Eu égards aux nombreuses données, nous avons dû réaliser une carte par classe énergétique pour distinguer les différents DPE et pointer d’éventuels contrastes. <br />
 La démarche fondamentale de cette étude de cas consiste à rechercher des contrastes entre les classes énergétiques et/ou entre les arrondissements de la ville. <br />
 <br />
-La classe A ne présente pas de réelles disparités, si ce n’est que les derniers logements construits dans le nord et le nord-ouest de Paris présentent quelques points d’exception où les logements sont bien isolés, eu égards à leur date de construction. <br />
+La classe A ne présente pas de réelles disparités, si ce n’est que les derniers logements construits dans le nord et le nord-ouest de Paris présentent quelques points d’exception où les logements sont bien isolés, eu égard à leur date de construction. <br />
 
-À l’instar de la classe précédente, la classe B ne présente pas de réel contraste et les données disponibles demeurent trop éparsent pour conclure à de réelles disparités entre les arrondissements.  <br />
+À l’instar de la classe précédente, la classe B ne présente pas de réel contraste non plus et les données disponibles demeurent trop éparsent pour conclure à de réelles disparités entre les arrondissements.  <br />
 
-À l’inverse de la classe précédente, la classe C dispose de nombreuses données, permettant de constater un premier contraste entre les 17e, 18e, 9e, 10e et 11e arrondissement par opposition aux 5e, 6e, et 7e. Reste à établir, si les trois derniers arrondissements présentent de meilleurs diagnostics. Question à laquelle nous pouvons d’emblée répondre par la négative au regard des cartes suivantes. <br />
+À l’inverse de la classe précédente, la classe C dispose de nombreuses données, permettant de constater un premier contraste entre les 17e, 18e, 9e, 10e et 11e arrondissement par opposition aux 5e, 6e, et 7e. Reste à établir, si les trois derniers arrondissements présentent de meilleurs diagnostics. Question à laquelle nous pouvons d’emblée répondre par la négative au regard des cartes suivantes. Il convient d'ajouter que ramenés au nombre de logements, deux arrondissements se distinguent : le 13e arrondissement qui présente les meilleurs DPE de la capitale, tandis que le 6e présente les moins bons.<br />
    </div> 
 
 <p align="center">
@@ -386,8 +385,7 @@ Titre : Carte présentant les logements ayant un DPE de classe E.<br />
   </div>
 
    <div align="justify">
-La classe F laisse poindre de nouvelles disparités à la défaveur des 10e, 11e, 17e et 18e 
-Plus d’un tiers du parc immobilier présente un DPE entre F et G, sachant également que plus d’un tiers des logements de la capitale ont été construits avant 1919. Seulement, aucune recherche n’établit de lien direct entre un diagnostic défavorable et la date de construction des logements. En outre, près de 60 % des logements ont été construits entre 1919 et 1990, dont une part significative présente un DPE entre D et G. <br />
+La classe F laisse poindre de nouvelles disparités à la défaveur des 10e, 11e, 17e et 18e arrondissements. Plus d’un tiers du parc immobilier présente un DPE entre F et G, sachant également que plus d’un tiers des logements de la capitale ont été construits avant 1919. Seulement, aucune recherche n’établit de lien direct entre un diagnostic défavorable et la date de construction des logements. En outre, près de 60 % des logements ont été construits entre 1919 et 1990, dont une part significative présente un DPE entre D et G. <br />
    </div> 
 
 <p align="center">
@@ -400,7 +398,7 @@ Titre : Carte présentant les logements ayant un DPE de classe F. <br />
 
 
    <div align="justify">
-Les classes G et plus encore H ne présentent pas suffisamment de données pour souligner d’éventuels contrastes, si ce n’est que les logements qui présentent le plus de DPE avec la classe G se situent dans le Nord de Paris, principalement entre le 17 et le 18e arrondissement. <br />
+Les classes G et plus encore H ne présentent pas suffisamment de données pour souligner d’éventuels contrastes, si ce n’est que les logements qui présentent le plus de DPE avec la classe G se situent dans le Nord de Paris, principalement entre le 17 et le 18e arrondissement. À titre indicatif, la classe H, ne fait état que de deux logements pour le périmètre sélectionnée. <br />
 <br />
 <br />
    </div> 
@@ -419,7 +417,7 @@ Titre : Carte présentant la consommation énergétique de chaque quartier à Pa
   </div>
 
    <div align="justify">
-En effet, selon les chiffres de l’Apur, la consommation annuelle de gaz, d’électricité et de chauffage urbain par habitant et par an en 2020, est jusqu’à cinq fois plus élevée dans les quartiers les plus aisés de l’ouest parisien, en comparaison avec certains quartiers plus populaires du nord-est de la capitale. Pour autant, dans les 8e et 16e arrondissement, la part des logements classés E, F ou G n’en reste pas moins supérieure à 50 %. Aussi, les dépenses énergétiques sont avant tout liées aux revenus du foyer fiscal, plutôt qu’au DPE du logement, indépendamment de la classe énergétique.   <br />
+En effet, selon les chiffres de l’Apur, la consommation annuelle de gaz, d’électricité et de chauffage urbain par habitant et par an en 2020, est jusqu’à cinq fois plus élevée dans les quartiers les plus aisés de l’ouest parisien, en comparaison avec certains quartiers plus populaires du nord-est de la capitale. Pour autant, dans les 8e et 16e arrondissements, la part des logements classés E, F ou G n’en reste pas moins supérieure à 50 %. Aussi, les dépenses énergétiques sont avant tout liées aux revenus du foyer fiscal, plutôt qu’au DPE du logement, indépendamment de la classe énergétique.   <br />
   </div> 
    
    
@@ -429,11 +427,11 @@ En effet, selon les chiffres de l’Apur, la consommation annuelle de gaz, d’�
 ## 1) La non-représentativité des données et leur qualité
 
   <div align="justify">
-L’ADEME souligne d’emblée que les données fournies, sont les données brutes de l’observatoire DPE qui contient l’ensemble des DPE effectués par les diagnostiqueurs immobiliers. Leur interprétation doit être faite avec précaution, en ce sens où le DPE est obligatoire seulement pour une vente, une location ou à l'achèvement de toute nouvelle construction. Aussi, tous les biens ne sont pas dotés d'un DPE. À ce titre, cette base ne couvre pas tout le parc immobilier et n’en donc est pas pleinement représentative. <br />
+L’ADEME souligne d’emblée que les données fournies sont les données brutes de l’observatoire DPE qui contient l’ensemble des DPE effectués par les diagnostiqueurs immobiliers. Leur interprétation doit être faite avec précaution, en ce sens où le DPE est obligatoire seulement pour une vente, une location ou à l'achèvement de toute nouvelle construction. Aussi, tous les biens ne sont pas dotés d'un DPE. À ce titre, cette base ne couvre pas tout le parc immobilier et n’en donc est pas pleinement représentative. <br />
 Pour estimer la performance énergétique et environnementale de l'ensemble du parc français et la distribution nationale des classes DPE, un travail de redressement des données devrait être fait. Il nécessite l’utilisation de la base de données DPE, mais aussi la mobilisation d’autres bases de données telles que le répertoire de logements de l'Insee « Fidéli » ou encore les distributions d'énergies principales de chauffage des résidences principales estimées par le recensement de la population. <br />
 
-Les données mises à disposition sont les données brutes saisies par les diagnostiqueurs, sur lesquelles l’ADEME n’effectue aucune reprise de données. Dans ce cadre, l’ADEME ne peut en aucun cas être tenue responsable de la qualité des données qui lui sont transmises. <br />
-Contrairement aux données envoyées sur l’ancien observatoire, néanmoins elles font l’objet de contrôles de cohérence. En cas de non-conformité, le DPE est rejeté si le contrôle est bloquant.
+Les données mises à disposition sont les données brutes saisies par les diagnostiqueurs, sur lesquelles l’ADEME n’effectue aucune reprise de données. Dans ce cadre, l’ADEME estime qu'elle ne peut en aucun cas être tenue responsable de la qualité des données qui lui sont transmises. <br />
+Contrairement aux données envoyées sur l’ancien observatoire, néanmoins elles font l’objet de contrôles de cohérence. En cas de non-conformité, le DPE est rejeté si le contrôle est bloquant. Par ailleurs, nous avons pu constater à plusieurs reprises que des doublons demeurent dans la base de données. 
     </div>
 
 ## 2) Les limites de la base DPE Logements
@@ -445,7 +443,7 @@ Martin Amiel montre bien dans sa thèse, sur une optimisation du diagnostic de p
 La plupart des rénovations engagées sont uniquement fondées sur un simple diagnostic énergétique. Ces diagnostics, fondés sur un calcul conventionnel ou des factures de consommations d’énergie, n’ont pas pour objectif de représenter les consommations réelles du bâtiment, mais de pouvoir comparer la formance des bâtiments entre eux, en se fondant sur un usage trop standardisé du bâtiment. <br />
 Seulement, la méthode de calcul des PDE ne prend pas en compte l’ensemble des usages énergétique des bâtiments et les calculs de consommations comprennent nombre de valeurs forfaitaires ne permettant pas de retranscrire les usages, caractéristiques et l’environnement extérieur des bâtiments. <br />
 De fait, les préconisations de travaux et les économies d’énergie qui y sont associées ne peuvent pas être justes. En outre, même en essayant de caractériser le plus fidèlement possible un bâtiment avec son enveloppe, son environnement et ses usages, nombre d’incertitudes subsistent, dont une part demeure inconnue, à l’image de la dégradation de la performance thermique des matériaux dans le temps. <br />
-Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité des paramètres pris en compte, déjà mis en œuvre lors de la construction de nouveau bâtiment, devraient être mises en place dans le cadre des rénovation énergétiques. <br />
+Aussi pour pallier cette limite, les analyses d’incertitude et de sensibilité des paramètres pris en compte, déjà mis en œuvre lors de la construction de nouveau bâtiment, devraient être mises en place dans le cadre des rénovations énergétiques. <br />
    </div> 
    
  
