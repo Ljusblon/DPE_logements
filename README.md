@@ -237,7 +237,6 @@ https://user-images.githubusercontent.com/111519260/201638903-571ff5b1-651e-45b4
   <div align="center">
 Titre : Animation du diagnostic de performance énergétique pour les logements entre 1900 et 2021. <br />
   </div>
-  Ajouter une description succinte du GIF !!!
 
 ## 3) Diagnostics de performance énergétique pour les logements - Classe GES  
 
